@@ -1,0 +1,7 @@
+<keymap version="1" name="Petr GNOME" parent="Default for GNOME">
+  <action id="ContextHelp" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+</keymap>
