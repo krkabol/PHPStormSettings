@@ -5,6 +5,8 @@
       <mapping pattern="docker-healthcheck" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="not-so-secret" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
