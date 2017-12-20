@@ -1,13 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Jenkinsfile" type="Dockerfile" />
-      <mapping pattern=".gitexcludes" type="Git file" />
-      <mapping pattern="docker-healthcheck" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="not-so-secret" type="PLAIN_TEXT" />
-      <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping pattern="dfgbc" type="PLAIN_TEXT" />
+      <mapping pattern="gdfdg" type="PLAIN_TEXT" />
+      <mapping ext="dict" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
