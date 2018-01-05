@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitexcludes" type="Git file" />
       <mapping ext="concated" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="YAML" />
       <mapping pattern="base" type="Properties" />
       <mapping pattern="second" type="Properties" />
     </extensionMap>
