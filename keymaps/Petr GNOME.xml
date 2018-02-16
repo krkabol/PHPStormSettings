@@ -1,1 +1,13 @@
-<keymap version="1" name="Petr GNOME" parent="Default for GNOME" />
+<keymap version="1" name="Petr GNOME" parent="Default for GNOME">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="SaveAll" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+</keymap>
