@@ -8,11 +8,10 @@
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="production_Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="sbt" type="PLAIN_TEXT" />
       <mapping ext="concated" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="YAML" />
       <mapping pattern="base" type="Properties" />
       <mapping pattern="second" type="Properties" />
+      <mapping pattern="Jenkinsfile" type="YAML" />
     </extensionMap>
   </component>
 </application>
