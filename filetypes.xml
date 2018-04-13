@@ -5,18 +5,17 @@
       <mapping ext="ods" type="Native" />
       <mapping ext="mm" type="Native" />
       <mapping ext="phpt" type="PHP" />
-      <mapping pattern="export CI" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="production_Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_activator" type="PLAIN_TEXT" />
+      <mapping pattern="export CI" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping pattern="production_Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="concated" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="YAML" />
+      <mapping ext="concated" type="PLAIN_TEXT" />
       <mapping pattern="base" type="Properties" />
       <mapping pattern="second" type="Properties" />
+      <mapping pattern="Jenkinsfile" type="YAML" />
     </extensionMap>
   </component>
 </application>
