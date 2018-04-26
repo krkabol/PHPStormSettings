@@ -10,6 +10,7 @@
       <mapping pattern="Dockerfile_activator" type="PLAIN_TEXT" />
       <mapping pattern="production_Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="helper" type="PLAIN_TEXT" />
+      <mapping pattern="docker-composeyml" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="concated" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="YAML" />
