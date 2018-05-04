@@ -4,14 +4,15 @@
       <mapping ext="ods" type="Native" />
       <mapping ext="mm" type="Native" />
       <mapping ext="phpt" type="PHP" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="sodexo_sdnet_id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping pattern="export CI" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_activator" type="PLAIN_TEXT" />
       <mapping pattern="production_Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="helper" type="PLAIN_TEXT" />
       <mapping pattern="docker-composeyml" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
