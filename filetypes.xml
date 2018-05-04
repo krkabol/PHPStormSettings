@@ -17,6 +17,7 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="concated" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="YAML" />
       <mapping pattern=".gitexcludes" type="Git file" />
       <mapping pattern="base" type="Properties" />
