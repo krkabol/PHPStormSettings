@@ -16,14 +16,13 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="java" type="PLAIN_TEXT" />
-      <mapping ext="concated" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="YAML" />
-      <mapping pattern=".gitexcludes" type="Git file" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="concated" type="PLAIN_TEXT" />
       <mapping pattern="base" type="Properties" />
       <mapping pattern="second" type="Properties" />
+      <mapping pattern="Jenkinsfile" type="YAML" />
+      <mapping pattern=".gitexcludes" type="Git file" />
     </extensionMap>
   </component>
 </application>
