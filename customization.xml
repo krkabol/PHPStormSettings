@@ -1,6 +1,0 @@
-<application>
-  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <action id="RunJsbtTask" />
-    <action id="ExternalSystem.GroupTasks" />
-  </component>
-</application>
