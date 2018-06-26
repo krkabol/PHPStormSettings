@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile_v9" type="PLAIN_TEXT" />
       <mapping pattern="messages2" type="PLAIN_TEXT" />
       <mapping ext="routes" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="concated" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
