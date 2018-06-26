@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="messages" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_v9" type="PLAIN_TEXT" />
+      <mapping ext="concated" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
