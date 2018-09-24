@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ods" type="Native" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
