@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="ods" type="Native" />
+      <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="wcld" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
