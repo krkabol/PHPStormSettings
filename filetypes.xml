@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".readme" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_v11" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
