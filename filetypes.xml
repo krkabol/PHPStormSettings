@@ -5,8 +5,9 @@
       <mapping ext="ods" type="Native" />
       <mapping pattern=".readme" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_v11" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="r" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
