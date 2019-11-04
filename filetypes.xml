@@ -4,6 +4,9 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="ods" type="Native" />
+      <mapping pattern="iptables" type="PLAIN_TEXT" />
+      <mapping pattern="pnovotny_crontab" type="PLAIN_TEXT" />
+      <mapping pattern="postgres_crontab" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="qgz" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
