@@ -2,8 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ods" type="Native" />
+      <mapping pattern="pnovotny_crontab" type="PLAIN_TEXT" />
+      <mapping pattern="postgres_crontab" type="PLAIN_TEXT" />
+      <mapping pattern="iptables" type="PLAIN_TEXT" />
+      <mapping ext="qgz" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
