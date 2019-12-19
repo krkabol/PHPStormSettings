@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ods" type="Native" />
       <mapping pattern="pnovotny_crontab" type="PLAIN_TEXT" />
+      <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern="postgres_crontab" type="PLAIN_TEXT" />
       <mapping pattern="iptables" type="PLAIN_TEXT" />
       <mapping ext="qgz" type="PLAIN_TEXT" />
