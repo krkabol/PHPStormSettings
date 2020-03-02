@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="main.pdf" type="Native" />
+      <mapping pattern="postgres_crontab" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
