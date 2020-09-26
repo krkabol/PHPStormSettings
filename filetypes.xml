@@ -5,9 +5,9 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="main.pdf" type="Native" />
       <mapping ext="ods" type="Native" />
-      <mapping pattern="postgres_crontab" type="PLAIN_TEXT" />
-      <mapping pattern="doi_bichez_1" type="PLAIN_TEXT" />
       <mapping pattern="ff" type="PLAIN_TEXT" />
+      <mapping pattern="doi_bichez_1" type="PLAIN_TEXT" />
+      <mapping pattern="postgres_crontab" type="PLAIN_TEXT" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
