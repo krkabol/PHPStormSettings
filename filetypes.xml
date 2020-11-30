@@ -6,6 +6,7 @@
       <mapping pattern="helper" type="PLAIN_TEXT" />
       <mapping pattern="postgres_crontab" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci-yml" type="PLAIN_TEXT" />
+      <mapping pattern=".RData" type="PLAIN_TEXT" />
       <mapping pattern="doi_bichez_1" type="PLAIN_TEXT" />
       <mapping pattern="ff" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
