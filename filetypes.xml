@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="main.pdf" type="Native" />
       <mapping ext="ods" type="Native" />
@@ -11,8 +11,8 @@
       <mapping pattern="ff" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Adobe Photoshop" />
       <removed_mapping ext="apk" approved="true" type="APK" />
+      <removed_mapping ext="psd" approved="true" type="Adobe Photoshop" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
