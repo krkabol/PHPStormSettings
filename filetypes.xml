@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="biblatex.cfg" type="LaTeX style file" />
       <mapping pattern="main.pdf" type="Native" />
       <mapping ext="ods" type="Native" />
       <mapping pattern="helper" type="PLAIN_TEXT" />
