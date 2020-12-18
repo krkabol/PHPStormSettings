@@ -1,0 +1,5 @@
+<code_scheme name="Default">
+  <DartCodeStyleSettings>
+    <option name="DELEGATE_TO_DARTFMT" value="true" />
+  </DartCodeStyleSettings>
+</code_scheme>
