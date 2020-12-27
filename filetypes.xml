@@ -9,6 +9,7 @@
       <mapping pattern=".RData" type="PLAIN_TEXT" />
       <mapping pattern="doi_bichez_1" type="PLAIN_TEXT" />
       <mapping pattern="ff" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="APK" />
