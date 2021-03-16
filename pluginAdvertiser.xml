@@ -2454,7 +2454,7 @@
                   </entry>
                   <entry key="jpackage">
                     <value>
-                      <FeaturePluginData displayName="Platform specific package" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
+                      <FeaturePluginData displayName="Platform specific package" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
                     </value>
                   </entry>
                   <entry key="plain">
