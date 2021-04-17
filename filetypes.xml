@@ -1,25 +1,24 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="main.pdf" type="Native" />
       <mapping ext="ods" type="Native" />
-      <mapping pattern=".RData" type="PLAIN_TEXT" />
       <mapping pattern="helper" type="PLAIN_TEXT" />
       <mapping pattern="postgres_crontab" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci-yml" type="PLAIN_TEXT" />
+      <mapping pattern=".RData" type="PLAIN_TEXT" />
       <mapping pattern="doi_bichez_1" type="PLAIN_TEXT" />
       <mapping pattern="ff" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="APK" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="psd" approved="true" type="Adobe Photoshop" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
