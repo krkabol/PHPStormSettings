@@ -64,7 +64,7 @@
         <entry key="AMGET" value="Post-processing tool for ADAPT 5" />
         <entry key="AMModels" value="Adaptive Management Model Manager" />
         <entry key="AMOEBA" value="A Multidirectional Optimum Ecotope-Based Algorithm" />
-        <entry key="AMPLE" value="Common Code for the 'AMPED' and 'PIMPLE' 'shiny' Apps for Stakeholder Engagement and Harvest Strategies" />
+        <entry key="AMPLE" value="Shiny Apps to Support Capacity Building on Harvest Control Rules" />
         <entry key="AMR" value="Antimicrobial Resistance Data Analysis" />
         <entry key="ANN2" value="Artificial Neural Networks for Anomaly Detection" />
         <entry key="ANOM" value="Analysis of Means" />
@@ -72,6 +72,7 @@
         <entry key="ANOVAShiny" value="Interactive Document for Working with Analysis of Variance" />
         <entry key="ANOVAShiny2" value="Interactive Document for Working with Analysis of Variance" />
         <entry key="ANOVAreplication" value="Test ANOVA Replications by Means of the Prior Predictive p-Value" />
+        <entry key="ANTs" value="Animal Network Toolkit Software" />
         <entry key="AOV1R" value="Inference in the Balanced One-Way ANOVA Model with Random Factor" />
         <entry key="APAtree" value="Computation of the 'Area Potentially Available' (APA) to Trees" />
         <entry key="APCI" value="A New Age-Period-Cohort Model for Describing and Investigating Inter-Cohort Differences and Life Course Dynamics" />
@@ -239,7 +240,6 @@
         <entry key="BAEssd" value="Bayesian Average Error approach to Sample Size Determination" />
         <entry key="BAGofT" value="A Binary Regression Adaptive Goodness-of-Fit Test (BAGofT)" />
         <entry key="BALCONY" value="Better ALignment CONsensus analYsis" />
-        <entry key="BALD" value="Robust Loss Development Using MCMC" />
         <entry key="BALLI" value="Expression RNA-Seq Data Analysis Based on Linear Mixed Model" />
         <entry key="BAMBI" value="Bivariate Angular Mixture Models" />
         <entry key="BAMMtools" value="Analysis and Visualization of Macroevolutionary Dynamics on Phylogenetic Trees" />
@@ -316,7 +316,6 @@
         <entry key="BIOM.utils" value="Utilities for the BIOM (Biological Observation Matrix) Format" />
         <entry key="BIOMASS" value="Estimating Aboveground Biomass and Its Uncertainty in Tropical Forests" />
         <entry key="BIOdry" value="Multilevel Modeling of Dendroclimatical Fluctuations" />
-        <entry key="BIS" value="Programmatic Access to Bank for International Settlements Data" />
         <entry key="BKPC" value="Bayesian Kernel Projection Classifier" />
         <entry key="BLCOP" value="Black-Litterman and Copula Opinion Pooling Frameworks" />
         <entry key="BLModel" value="Black-Litterman Posterior Distribution" />
@@ -356,6 +355,7 @@
         <entry key="BRACoD.R" value="BRACoD: Bayesian Regression Analysis of Compositional Data" />
         <entry key="BRDT" value="Binomial Reliability Demonstration Tests" />
         <entry key="BRETIGEA" value="Brain Cell Type Specific Gene Expression Analysis" />
+        <entry key="BRINDA" value="Computation of BRINDA Adjusted Micronutrient Biomarkers for Inflammation" />
         <entry key="BRISC" value="Fast Inference for Large Spatial Datasets using BRISC" />
         <entry key="BRL" value="Beta Record Linkage" />
         <entry key="BRugs" value="Interface to the 'OpenBUGS' MCMC Software" />
@@ -368,7 +368,7 @@
         <entry key="BSS" value="Brownian Semistationary Processes" />
         <entry key="BSSasymp" value="Asymptotic Covariance Matrices of Some BSS Mixing and Unmixing Matrix Estimates" />
         <entry key="BSSprep" value="Whitening Data as Preparation for Blind Source Separation" />
-        <entry key="BSW" value="Fitting a Log-Binomial Model using the Bekhit-Schöpe-Wagenpfeil (BSW) Algorithm" />
+        <entry key="BSW" value="Fitting a Log-Binomial Model using the Bekhit-SchĂ¶pe-Wagenpfeil (BSW) Algorithm" />
         <entry key="BSagri" value="Safety Assessment in Agricultural Field Trials" />
         <entry key="BTLLasso" value="Modelling Heterogeneity in Paired Comparison Data" />
         <entry key="BTM" value="Biterm Topic Models for Short Text" />
@@ -407,6 +407,7 @@
         <entry key="BayesBEKK" value="Bayesian Estimation of Bivariate Volatility Model" />
         <entry key="BayesBP" value="Bayesian Estimation using Bernstein Polynomial Fits Rate Matrix" />
         <entry key="BayesBinMix" value="Bayesian Estimation of Mixtures of Multivariate Bernoulli Distributions" />
+        <entry key="BayesCACE" value="Bayesian Model for CACE Analysis" />
         <entry key="BayesCR" value="Bayesian Analysis of Censored Regression Models Under Scale Mixture of Skew Normal Distributions" />
         <entry key="BayesCTDesign" value="Two Arm Bayesian Clinical Trial Design with and Without Historical Control Data" />
         <entry key="BayesCombo" value="Bayesian Evidence Combination" />
@@ -414,7 +415,6 @@
         <entry key="BayesDA" value="Functions and Datasets for the book &quot;Bayesian Data Analysis&quot;" />
         <entry key="BayesDesign" value="Bayesian Single-Arm Design with Survival Endpoints" />
         <entry key="BayesESS" value="Determining Effective Sample Size" />
-        <entry key="BayesFM" value="Bayesian Inference for Factor Modeling" />
         <entry key="BayesFactor" value="Computation of Bayes Factors for Common Designs" />
         <entry key="BayesGESM" value="Bayesian Analysis of Generalized Elliptical Semi-Parametric Models and Flexible Measurement Error Models" />
         <entry key="BayesGOF" value="Bayesian Modeling via Frequentist Goodness-of-Fit" />
@@ -435,6 +435,7 @@
         <entry key="BayesPPD" value="Bayesian Power Prior Design" />
         <entry key="BayesPieceHazSelect" value="Variable Selection in a Hierarchical Bayesian Model for a Hazard Function" />
         <entry key="BayesPiecewiseICAR" value="Hierarchical Bayesian Model for a Hazard Function" />
+        <entry key="BayesPostEst" value="Generate Postestimation Quantities for Bayesian MCMC Estimation" />
         <entry key="BayesProject" value="Fast Projection Direction for Multivariate Changepoint Detection" />
         <entry key="BayesRGMM" value="Bayesian Robust Generalized Mixed Models for Longitudinal Data" />
         <entry key="BayesRS" value="Bayes Factors for Hierarchical Linear Models with Continuous Predictors" />
@@ -514,7 +515,7 @@
         <entry key="BioPET" value="Biomarker Prognostic Enrichment Tool" />
         <entry key="BioPETsurv" value="Biomarker Prognostic Enrichment Tool for Time-to-Event Trial" />
         <entry key="BioProbability" value="Probability in Biostatistics" />
-        <entry key="BioStatR" value="Initiation à La Statistique Avec R" />
+        <entry key="BioStatR" value="Initiation Ă  La Statistique Avec R" />
         <entry key="BioVenn" value="Create Area-Proportional Venn Diagrams from Biological Lists" />
         <entry key="BiocManager" value="Access the Bioconductor Project Package Repository" />
         <entry key="Biocomb" value="Feature Selection and Classification with the Embedded Validation Procedures for Biomedical Data Analysis" />
@@ -709,7 +710,6 @@
         <entry key="CP" value="Conditional Power Calculations" />
         <entry key="CPAT" value="Change Point Analysis Tests" />
         <entry key="CPBayes" value="Bayesian Meta Analysis for Studying Cross-Phenotype Genetic Associations" />
-        <entry key="CPE" value="Concordance Probability Estimates in Survival Analysis" />
         <entry key="CPGLIB" value="Competing Proximal Gradients Library" />
         <entry key="CPMCGLM" value="Correction of the P-Value after Multiple Coding in Generalized Linear Models" />
         <entry key="CPNCoverageAnalysis" value="Conceptual Properties Norming Studies as Parameter Estimation" />
@@ -775,7 +775,6 @@
         <entry key="CatDataAnalysis" value="Datasetsfor Categorical Data Analysis by Agresti" />
         <entry key="CatDyn" value="Fishery Stock Assessment by Catch Dynamics Models" />
         <entry key="CatEncoders" value="Encoders for Categorical Variables" />
-        <entry key="CatPredi" value="Optimal Categorisation of Continuous Variables in Prediction Models" />
         <entry key="CatReg" value="Solution Paths for Linear and Logistic Regression Models with Categorical Predictors, with SCOPE Penalty" />
         <entry key="CateSelection" value="Categorical Variable Selection Methods" />
         <entry key="CauchyCP" value="Powerful Test for Survival Data under Non-Proportional Hazards" />
@@ -1159,7 +1158,6 @@
         <entry key="DataClean" value="Data Cleaning" />
         <entry key="DataCombine" value="Tools for Easily Combining and Cleaning Data Sets" />
         <entry key="DataEditR" value="An Interactive Editor for Viewing, Entering, Filtering &amp; Editing Data" />
-        <entry key="DataEntry" value="Make it Easier to Enter Questionnaire Data" />
         <entry key="DataExplorer" value="Automate Data Exploration and Treatment" />
         <entry key="DataFakeR" value="Generate Fake Data for Relational Databases" />
         <entry key="DataGraph" value="Export Data from R so 'DataGraph' can Read it" />
@@ -1240,7 +1238,7 @@
         <entry key="DirectEffects" value="Estimating Controlled Direct Effects for Explaining Causal Findings" />
         <entry key="DirectStandardisation" value="Adjusted Means and Proportions by Direct Standardisation" />
         <entry key="DirectedClustering" value="Directed Weighted Clustering Coefficient" />
-        <entry key="Directional" value="A Collection of R Functions for Directional Data Analysis" />
+        <entry key="Directional" value="A Collection of Functions for Directional Data Analysis" />
         <entry key="DirichletReg" value="Dirichlet Regression" />
         <entry key="DisHet" value="Estimate the Gene Expression Levels and Component Proportions of the Normal, Stroma (Immune) and Tumor Components of Bulk Tumor Samples" />
         <entry key="DisImpact" value="Calculates Disproportionate Impact When Binary Success Data are Disaggregated by Subgroups" />
@@ -1337,6 +1335,7 @@
         <entry key="EFAutilities" value="Utility Functions for Exploratory Factor Analysis" />
         <entry key="EFDR" value="Wavelet-Based Enhanced FDR for Detecting Signals from Complete or Incomplete Spatially Aggregated Data" />
         <entry key="EFS" value="Tool for Ensemble Feature Selection" />
+        <entry key="EGAnet" value="Exploratory Graph Analysis â€“ a Framework for Estimating the Number of Dimensions in Multivariate Data using Network Psychometrics" />
         <entry key="EGRET" value="Exploration and Graphics for RivEr Trends" />
         <entry key="EGRETci" value="Exploration and Graphics for RivEr Trends Confidence Intervals" />
         <entry key="EHR" value="Electronic Health Record (EHR) Data Processing and Analysis Tool" />
@@ -1377,6 +1376,7 @@
         <entry key="ENMTools" value="Analysis of Niche Evolution using Niche and Distribution Models" />
         <entry key="ENMeval" value="Automated Tuning and Evaluations of Ecological Niche Models" />
         <entry key="EPGMr" value="Implementation of the Everglades Phosphorus Gradient Model" />
+        <entry key="EPP" value="Evaluation of Proximity Programs" />
         <entry key="EPT" value="Ensemble Patch Transform, Visualization and Decomposition" />
         <entry key="EPX" value="Ensemble of Phalanxes" />
         <entry key="EQL" value="Extended-Quasi-Likelihood-Function (EQL)" />
@@ -1565,7 +1565,6 @@
         <entry key="FLLat" value="Fused Lasso Latent Feature Model" />
         <entry key="FLR" value="Fuzzy Logic Rule Classifier" />
         <entry key="FLSSS" value="Mining Rigs for Specialized Subset Sum, Multi-Subset Sum, Multidimensional Subset Sum, Multidimensional Knapsack, Generalized Assignment Problems" />
-        <entry key="FLightR" value="Reconstruct Animal Paths from Solar Geolocation Loggers Data" />
         <entry key="FMAdist" value="Frequentist Model Averaging Distribution" />
         <entry key="FMC" value="Factorial Experiments with Minimum Level Changes" />
         <entry key="FMCCSD" value="Efficient Estimation of Clustered Current Status Data" />
@@ -1696,6 +1695,7 @@
         <entry key="FourgameteP" value="FourGamete Test" />
         <entry key="FrF2" value="Fractional Factorial Designs with 2-Level Factors" />
         <entry key="FrF2.catlg128" value="Catalogues of resolution IV 128 run 2-level fractional factorials up to 33 factors that do have 5-letter words" />
+        <entry key="FracKrigingR" value="Spatial Multivariate Data Modeling" />
         <entry key="FractalParameterEstimation" value="Simulation and Parameter Estimation of Randomized Sierpinski Carpets using the p-p-p-q-Model" />
         <entry key="Fragman" value="Fragment Analysis in R" />
         <entry key="Frames2" value="Estimation in Dual Frame Surveys" />
@@ -1802,6 +1802,7 @@
         <entry key="GK2011" value="Gaines and Kuklinski (2011) Estimators for Hybrid Experiments" />
         <entry key="GLDEX" value="Fitting Single and Mixture of Generalised Lambda Distributions (RS and FMKL) using Various Methods" />
         <entry key="GLDreg" value="Fit GLD Regression Model and GLD Quantile Regression Model to Empirical Data" />
+        <entry key="GLIDE" value="Global and Individual Tests for Direct Effects" />
         <entry key="GLMMRR" value="Generalized Linear Mixed Model (GLMM) for Binary Randomized Response Data" />
         <entry key="GLMMadaptive" value="Generalized Linear Mixed Models using Adaptive Gaussian Quadrature" />
         <entry key="GLMaSPU" value="An Adaptive Test on High Dimensional Parameters in Generalized Linear Models" />
@@ -1910,6 +1911,7 @@
         <entry key="GenForImp" value="The Forward Imputation: A Sequential Distance-Based Approach for Imputing Missing Data" />
         <entry key="GenHMM1d" value="Goodness-of-Fit for Univariate Hidden Markov Models" />
         <entry key="GenKern" value="Functions for generating and manipulating binned kernel density estimates" />
+        <entry key="GenMarkov" value="Multivariate Markov Chains" />
         <entry key="GenOrd" value="Simulation of Discrete Random Variables with Given Correlation Matrix and Marginal Distributions" />
         <entry key="GenSA" value="Generalized Simulated Annealing" />
         <entry key="GenTag" value="Generate Color Tag Sequences" />
@@ -1925,6 +1927,7 @@
         <entry key="GeneralizedUmatrix" value="Credible Visualization for Two-Dimensional Projections of Data" />
         <entry key="GeneticSubsetter" value="Identify Favorable Subsets of Germplasm Collections" />
         <entry key="GenoScan" value="A Genome-Wide Scan Statistic Framework for Whole-Genome Sequence Data Analysis" />
+        <entry key="GenomeAdapt" value="Detecting Signatures of Local Adaptation Based on Ancestry Trajectories" />
         <entry key="GenomeAdmixR" value="Simulate Admixture of Genomes" />
         <entry key="GenomicMating" value="Efficient Breeding by Genomic Mating" />
         <entry key="GenomicTools" value="Collection of Tools for Genomic Data Analysis" />
@@ -1932,7 +1935,6 @@
         <entry key="GeoBoxplot" value="Geographic Box Plot" />
         <entry key="GeoDE" value="A geometrical Approach to Differential expression and gene-set enrichment" />
         <entry key="GeoFIS" value="Spatial Data Processing for Decision Making" />
-        <entry key="GeoLight" value="Analysis of Light Based Geolocator Data" />
         <entry key="GeoMongo" value="Geospatial Queries Using 'PyMongo'" />
         <entry key="GeoRange" value="Calculating Geographic Range from Occurrence Data" />
         <entry key="GeoTcgaData" value="Processing various types of data on GEO and TCGA" />
@@ -2108,6 +2110,8 @@
         <entry key="HiddenMarkov" value="Hidden Markov Models" />
         <entry key="HierDpart" value="Partitioning Hierarchical Diversity and Differentiation Across Metrics and Scales, from Genes to Ecosystems" />
         <entry key="HierO" value="A graphical user interface for calculating power and sample size for hierarchical data" />
+        <entry key="HierPorfolios" value="Hierarchical Clustering-Based Portfolio Allocation Strategies" />
+        <entry key="HierPortfolios" value="Hierarchical Clustering-Based Portfolio Allocation Strategies" />
         <entry key="HighestMedianRules" value="Implementation of Voting Rules Electing the Candidate with Highest Median Grade" />
         <entry key="HistDAWass" value="Histogram-Valued Data Analysis" />
         <entry key="HistDat" value="Summary Statistics for Histogram/Count Data" />
@@ -2172,6 +2176,7 @@
         <entry key="ICV" value="Indirect Cross-Validation (ICV) for Kernel Density Estimation" />
         <entry key="ICcalib" value="Cox Model with Interval-Censored Starting Time of a Covariate" />
         <entry key="ICcforest" value="An Ensemble Method for Interval-Censored Survival Data" />
+        <entry key="ICglm" value="Information Criteria for Generalized Linear Regression" />
         <entry key="ICsurv" value="A package for semiparametric regression analysis of interval-censored data" />
         <entry key="ICtest" value="Estimating and Testing the Number of Interesting Components in Linear Dimension Reduction" />
         <entry key="ICvectorfields" value="Vector Fields from Spatial Time Series of Population Abundance" />
@@ -2187,7 +2192,7 @@
         <entry key="IDmeasurer" value="Assessment of Individual Identity in Animal Signals" />
         <entry key="IDmining" value="Intrinsic Dimension for Data Mining" />
         <entry key="IETD" value="Inter-Event Time Definition" />
-        <entry key="IFAA" value="Robust Analysis for Absolute Abundance in Microbiome" />
+        <entry key="IFAA" value="Robust Inference for Absolute Abundance in Microbiome Analysis" />
         <entry key="IFC" value="Tools for Imaging Flow Cytometry" />
         <entry key="IFP" value="Identifying Functional Polymorphisms" />
         <entry key="IGG" value="Inverse Gamma-Gamma" />
@@ -2321,6 +2326,7 @@
         <entry key="IsoplotRgui" value="Web Interface to 'IsoplotR'" />
         <entry key="IsoriX" value="Isoscape Computation and Inference of Spatial Origins using Mixed Models" />
         <entry key="IsotopeR" value="Stable Isotope Mixing Model" />
+        <entry key="IxPopDyMod" value="Framework for Tick Population and Infection Modeling" />
         <entry key="JADE" value="Blind Source Separation Methods Based on Joint Diagonalization and Some BSS Performance Criteria" />
         <entry key="JASPAR" value="R modules for JASPAR databases: a collection of transcription factor DNA-binding preferences, modeled as matrices" />
         <entry key="JBrowseR" value="An R Interface to the JBrowse 2 Genome Browser" />
@@ -2333,7 +2339,6 @@
         <entry key="JMI" value="Jackknife Mutual Information" />
         <entry key="JMbayes" value="Joint Modeling of Longitudinal and Time-to-Event Data under a Bayesian Approach" />
         <entry key="JMbayes2" value="Extended Joint Models for Longitudinal and Time-to-Event Data" />
-        <entry key="JMcmprsk" value="Joint Models for Longitudinal and Competing Risks Data" />
         <entry key="JMdesign" value="Joint Modeling of Longitudinal and Survival Data - Power Calculation" />
         <entry key="JOPS" value="Practical Smoothing with P-Splines" />
         <entry key="JOUSBoost" value="Implements Under/Oversampling for Probability Estimation" />
@@ -2376,7 +2381,7 @@
         <entry key="KLexp" value="Kernel_lasso Expansion" />
         <entry key="KMDA" value="Kernel-Based Metabolite Differential Analysis" />
         <entry key="KMsurv" value="Data sets from Klein and Moeschberger (1997), Survival Analysis" />
-        <entry key="KMunicate" value="KMunicate-Style Kaplan–Meier Plots" />
+        <entry key="KMunicate" value="KMunicate-Style Kaplanâ€“Meier Plots" />
         <entry key="KNNShiny" value="Interactive Document for Working with KNN Analysis" />
         <entry key="KOBT" value="Knockoff Boosted Tree" />
         <entry key="KODAMA" value="Knowledge Discovery by Accuracy Maximization" />
@@ -2390,7 +2395,6 @@
         <entry key="KSEAapp" value="Kinase-Substrate Enrichment Analysis" />
         <entry key="KSPM" value="Kernel Semi-Parametric Models" />
         <entry key="KScorrect" value="Lilliefors-Corrected Kolmogorov-Smirnov Goodness-of-Fit Tests" />
-        <entry key="KSgeneral" value="Computing P-Values of the K-S Test for (Dis)Continuous Null Distribution" />
         <entry key="KTensorGraphs" value="Co-Tucker3 Analysis of Two Sequences of Matrices" />
         <entry key="KappaGUI" value="An R-Shiny Application for Calculating Cohen's and Fleiss' Kappa" />
         <entry key="KappaV" value="Calculates &quot;vectorial Kappa&quot;, an index of congruence between patchy mosaics" />
@@ -2911,6 +2915,7 @@
         <entry key="MaxPro" value="Maximum Projection Designs" />
         <entry key="MaxSkew" value="Orthogonal Data Projections with Maximal Skewness" />
         <entry key="MaxentVariableSelection" value="Selecting the Best Set of Relevant Environmental Variables along with the Optimal Regularization Multiplier for Maxent Niche Modeling" />
+        <entry key="MaximinInfer" value="Inference for Maximin Effect in High-Dimensional Settings" />
         <entry key="MazamaCoreUtils" value="Utility Functions for Production R Code" />
         <entry key="MazamaLocationUtils" value="Manage Spatial Metadata for Known Locations" />
         <entry key="MazamaRollUtils" value="Efficient Rolling Functions" />
@@ -2999,6 +3004,7 @@
         <entry key="MixtureInf" value="Inference for Finite Mixture Models" />
         <entry key="MixtureMissing" value="Robust Model-Based Clustering for Data Sets with Missing Values at Random" />
         <entry key="MixtureRegLTIC" value="Mixture Regression Models for Left-Truncated and Interval-Censored Data" />
+        <entry key="MoBPS" value="Modular Breeding Program Simulator" />
         <entry key="MoEClust" value="Gaussian Parsimonious Clustering Models with Covariates and a Noise Component" />
         <entry key="MoLE" value="Modeling Language Evolution" />
         <entry key="MoMPCA" value="Inference and Clustering for Mixture of Multinomial Principal Component Analysis" />
@@ -3292,11 +3298,12 @@
         <entry key="OmicNavigator" value="Open-Source Software for 'Omic' Data Analysis and Visualization" />
         <entry key="OmicsPLS" value="Data Integration with Two-Way Orthogonal Partial Least Squares" />
         <entry key="Omisc" value="Univariate Bootstrapping and Other Things" />
-        <entry key="OmnibusFisher" value="A Modified Fisher’s Method to Test Overall Gene-Level Effect" />
+        <entry key="OmnibusFisher" value="A Modified Fisherâ€™s Method to Test Overall Gene-Level Effect" />
         <entry key="OnAge" value="Test of Between-Group Differences in the Onset of Senescence" />
         <entry key="OncoBayes2" value="Bayesian Logistic Regression for Oncology Dose-Escalation Trials" />
         <entry key="Oncotree" value="Estimating oncogenetic trees" />
         <entry key="OneR" value="One Rule Machine Learning Classification Algorithm with Enhancements" />
+        <entry key="OneSampleMR" value="One Sample Mendelian Randomization and Instrumental Variable Analyses" />
         <entry key="OneStep" value="One-Step Estimation" />
         <entry key="OneTwoSamples" value="Deal with one and two (normal) samples" />
         <entry key="OpVaR" value="Statistical Methods for Modelling Operational Risk" />
@@ -3503,7 +3510,7 @@
         <entry key="PWEALL" value="Design and Monitoring of Survival Trials Accounting for Complex Situations" />
         <entry key="PWFSLSmoke" value="Utilities for Working with Air Quality Monitoring Data" />
         <entry key="PabonLasso" value="Pabon Lasso Graphs and Comparing Situations of a Unit in Two Different Times" />
-        <entry key="Pade" value="Padé Approximant Coefficients" />
+        <entry key="Pade" value="PadĂ© Approximant Coefficients" />
         <entry key="PairViz" value="Visualization using Graph Traversal" />
         <entry key="PairedData" value="Paired Data Analysis" />
         <entry key="PakPC2017" value="Pakistan Population Census 2017" />
@@ -3660,7 +3667,7 @@
         <entry key="PriorCD" value="Prioritizing Cancer Drugs for Interested Cancer" />
         <entry key="PriorGen" value="Generates Prior Distributions for Proportions" />
         <entry key="PrivateLR" value="Differentially Private Regularized Logistic Regression" />
-        <entry key="ProAE" value="PRO-CTCAE Data Management, Analysis, and Graphical Tools" />
+        <entry key="ProAE" value="PRO-CTCAE Scoring, Analysis, and Graphical Tools" />
         <entry key="ProDenICA" value="Product Density Estimation for ICA using tilted Gaussian density estimates" />
         <entry key="ProFit" value="Fit Projected 2D Profiles to Galaxy Images" />
         <entry key="ProFound" value="Photometry Tools" />
@@ -3725,6 +3732,7 @@
         <entry key="QGameTheory" value="Quantum Game Theory Simulator" />
         <entry key="QGglmm" value="Estimate Quantitative Genetics Parameters from Generalised Linear Mixed Models" />
         <entry key="QHOT" value="QTL Hotspot Detection" />
+        <entry key="QHScrnomo" value="Construct Nomogram for Competing Risk Models" />
         <entry key="QLearning" value="Reinforcement Learning using the Q Learning Algorithm" />
         <entry key="QPmin" value="Linearly Constrained Indefinite Quadratic Program Solver" />
         <entry key="QQperm" value="Permutation Based QQ Plot and Inflation Factor Estimation" />
@@ -3741,7 +3749,6 @@
         <entry key="QTLRel" value="Tools for Mapping of Quantitative Traits of Genetically Related Individuals and Calculating Identity Coefficients from Pedigrees" />
         <entry key="QTOCen" value="Quantile-Optimal Treatment Regimes with Censored Data" />
         <entry key="QUALYPSO" value="Partitioning Uncertainty Components of an Incomplete Ensemble of Climate Projections" />
-        <entry key="QZ" value="Generalized Eigenvalues and QZ Decomposition" />
         <entry key="Qapprox" value="Approximation to the Survival Functions of Quadratic Forms of Gaussian Variables" />
         <entry key="Qtools" value="Utilities for Quantiles" />
         <entry key="QuACN" value="QuACN: Quantitative Analysis of Complex Networks" />
@@ -3814,7 +3821,6 @@
         <entry key="RAQSAPI" value="A R Interface to the US EPA Air Quality System Data Mart API" />
         <entry key="RATest" value="Randomization Tests" />
         <entry key="RAdwords" value="Loading Google Adwords Data into R" />
-        <entry key="RAhrefs" value="'Ahrefs' API R Interface" />
         <entry key="RApiDatetime" value="R API Datetime" />
         <entry key="RApiSerialize" value="R API Serialization" />
         <entry key="RAppArmor" value="Bindings to AppArmor and Security Related Linux Tools" />
@@ -3881,7 +3887,7 @@
         <entry key="REREFACT" value="Reordering and/or Reflecting Factors for Simulation Studies with Exploratory Factor Analysis" />
         <entry key="RESS" value="Integrates R and Essentia" />
         <entry key="REST" value="RcmdrPlugin Easy Script Templates" />
-        <entry key="REdaS" value="Companion Package to the Book 'R: Einführung durch angewandte Statistik'" />
+        <entry key="REdaS" value="Companion Package to the Book 'R: EinfĂĽhrung durch angewandte Statistik'" />
         <entry key="REddyProc" value="Post Processing of (Half-)Hourly Eddy-Covariance Measurements" />
         <entry key="REddyProcNCDF" value="Reading Data from NetCDF Files for 'REddyProc'" />
         <entry key="REndo" value="Fitting Linear Models with Endogenous Regressors using Latent Instrumental Variables" />
@@ -3914,6 +3920,7 @@
         <entry key="RGoogleFit" value="R Interface to Google Fit API" />
         <entry key="RGraphics" value="Data and Functions from the Book R Graphics, Third Edition" />
         <entry key="RGreenplum" value="Interface to 'Greenplum' Database" />
+        <entry key="RGremlinsConjoint" value="Estimate the &quot;Gremlins in the Data&quot; Model for Conjoint Studies" />
         <entry key="RGtk2" value="R Bindings for Gtk 2.8.0 and Above" />
         <entry key="RH2" value="DBI/RJDBC Interface to H2 Database" />
         <entry key="RHMS" value="Hydrologic Modelling System for R Users" />
@@ -4426,7 +4433,6 @@
         <entry key="Rgbp" value="Hierarchical Modeling and Frequency Method Checking on Overdispersed Gaussian, Poisson, and Binomial Data" />
         <entry key="Rglpk" value="R/GNU Linear Programming Kit Interface" />
         <entry key="RgoogleMaps" value="Overlays on Static Maps" />
-        <entry key="Rhpc" value="Permits *apply() Style Dispatch for 'HPC'" />
         <entry key="RhpcBLASctl" value="Control the Number of Threads on 'BLAS'" />
         <entry key="RichR" value="Enrichment for Diseases in a Set of Genes" />
         <entry key="RidgeFusion" value="R Package for Ridge Fusion in Statistical Learning" />
@@ -4540,6 +4546,7 @@
         <entry key="Rthingsboard" value="'ThingsBoard' API" />
         <entry key="Rtnmin" value="Truncated Newton Function Minimization with Bounds Constraints" />
         <entry key="Rtrack" value="Spatial Navigation Strategy Analysis" />
+        <entry key="Rtropical" value="Data Analysis Tools over Space of Phylogenetic Trees Using Tropical Geometry" />
         <entry key="Rtsne" value="T-Distributed Stochastic Neighbor Embedding using a Barnes-Hut Implementation" />
         <entry key="Rttf2pt1" value="'ttf2pt1' Program" />
         <entry key="RtutoR" value="Shiny Apps for Plotting and Exploratory Analysis" />
@@ -4640,7 +4647,7 @@
         <entry key="SDraw" value="Spatially Balanced Samples of Spatial Objects" />
         <entry key="SE.EQ" value="SE-Test for Equivalence" />
         <entry key="SEA" value="Segregation Analysis" />
-        <entry key="SEAGLE" value="Scalable Exact Algorithm for Large-Scale Set-Based GxE Tests" />
+        <entry key="SEAGLE" value="Scalable Exact Algorithm for Large-Scale Set-Based Gene-Environment Interaction Tests" />
         <entry key="SEAsic" value="Score Equity Assessment- summary index computation" />
         <entry key="SECFISH" value="Disaggregate Variable Costs" />
         <entry key="SECP" value="Statistical Estimation of Cluster Parameters (SECP)" />
@@ -4721,7 +4728,6 @@
         <entry key="SMVar" value="Structural Model for variances" />
         <entry key="SNFtool" value="Similarity Network Fusion" />
         <entry key="SNPMClust" value="Bivariate Gaussian Genotype Clustering and Calling for Illumina Microarrays" />
-        <entry key="SNPassoc" value="SNPs-Based Whole Genome Association Studies" />
         <entry key="SNPfiltR" value="Interactively Filter SNP Datasets" />
         <entry key="SNPknock" value="Knockoffs for Hidden Markov Models and Genetic Data" />
         <entry key="SNPmaxsel" value="Maximally selected statistics for SNP data" />
@@ -4971,6 +4977,7 @@
         <entry key="SmarterPoland" value="Tools for Accessing Various Datasets Developed by the Foundation SmarterPoland.pl" />
         <entry key="SmithWilsonYieldCurve" value="Smith-Wilson Yield Curve Construction" />
         <entry key="SmoothHazard" value="Estimation of Smooth Hazard Models for Interval-Censored Data with Applications to Survival and Illness-Death Models" />
+        <entry key="SmoothTensor" value="A Collection of Smooth Tensor Estimation Methods" />
         <entry key="SmoothWin" value="Soft Windowing on Linear Regression" />
         <entry key="Snake" value="Game of Snake" />
         <entry key="SnakesAndLaddersAnalysis" value="Play and Analyse the Game of Snakes and Ladders" />
@@ -5021,7 +5028,6 @@
         <entry key="SpatialBSS" value="Blind Source Separation for Multivariate Spatial Data" />
         <entry key="SpatialBall" value="Spatial NBA Visualization and Analysis" />
         <entry key="SpatialEpi" value="Methods and Data for Spatial Epidemiology" />
-        <entry key="SpatialEpiApp" value="A Shiny Web Application for the Analysis of Spatial and Spatio-Temporal Disease Data" />
         <entry key="SpatialExtremes" value="Modelling Spatial Extremes" />
         <entry key="SpatialFloor" value="Spatial Floor Simulation (Isotropic)" />
         <entry key="SpatialGraph" value="SpatialGraph Class" />
@@ -5146,7 +5152,6 @@
         <entry key="SwissAir" value="Air Quality Data of Switzerland for One Year in 30 Min Resolution" />
         <entry key="SyNet" value="Inference and Analysis of Sympatry Networks" />
         <entry key="SyScSelection" value="Systematic Scenario Selection for Stress Testing" />
-        <entry key="SymTS" value="Symmetric Tempered Stable Distributions" />
         <entry key="SymbolicDeterminants" value="Symbolic Representation of Matrix Determinant" />
         <entry key="SyncMove" value="Subsample Temporal Data to Synchronal Events and Compute the MCI" />
         <entry key="SyncRNG" value="A Synchronized Tausworthe RNG for R and Python" />
@@ -5649,10 +5654,8 @@
         <entry key="abglasso" value="Adaptive Bayesian Graphical Lasso" />
         <entry key="abind" value="Combine Multidimensional Arrays" />
         <entry key="abjutils" value="Useful Tools for Jurimetrical Analysis Used by the Brazilian Jurimetrics Association" />
-        <entry key="abn" value="Modelling Multivariate Data with Additive Bayesian Networks" />
         <entry key="abnormality" value="Measure a Subject's Abnormality with Respect to a Reference Population" />
         <entry key="abodOutlier" value="Angle-Based Outlier Detection" />
-        <entry key="abstr" value="R Interface to the A/B Street Transport System Simulation Software" />
         <entry key="abstractr" value="An R-Shiny Application for Creating Visual Abstracts" />
         <entry key="abtest" value="Bayesian A/B Testing" />
         <entry key="academictwitteR" value="Access the Twitter Academic Research Product Track V2 API Endpoint" />
@@ -5765,6 +5768,7 @@
         <entry key="afthd" value="Accelerated Failure Time for High Dimensional Data with MCMC" />
         <entry key="agRee" value="Various Methods for Measuring Agreement" />
         <entry key="aggregation" value="p-Value Aggregation Methods" />
+        <entry key="aghq" value="Adaptive Gauss Hermite Quadrature for Bayesian Inference" />
         <entry key="aglm" value="Accurate Generalized Linear Model" />
         <entry key="agop" value="Aggregation Operators and Preordered Sets" />
         <entry key="agriTutorial" value="Tutorial Analysis of Some Agricultural Experiments" />
@@ -5851,7 +5855,6 @@
         <entry key="ammistability" value="Additive Main Effects and Multiplicative Interaction Model Stability Parameters" />
         <entry key="ampd" value="An Algorithm for Automatic Peak Detection in Noisy Periodic and Quasi-Periodic Signals" />
         <entry key="ampir" value="Predict Antimicrobial Peptides" />
-        <entry key="amt" value="Animal Movement Tools" />
         <entry key="anMC" value="Compute High Dimensional Orthant Probabilities" />
         <entry key="anacor" value="Simple and Canonical Correspondence Analysis" />
         <entry key="analogsea" value="Interface to 'Digital Ocean'" />
@@ -6376,6 +6379,7 @@
         <entry key="biClassify" value="Binary Classification Using Extensions of Discriminant Analysis" />
         <entry key="biasbetareg" value="Bias correction of the parameter estimates of the beta regression model" />
         <entry key="bib2df" value="Parse a BibTeX File to a Data Frame" />
+        <entry key="biblio" value="Interacting with BibTeX Databases" />
         <entry key="bibliometrix" value="Comprehensive Science Mapping Analysis" />
         <entry key="bibliometrixData" value="Bibliometrix Example Datasets" />
         <entry key="biblionetwork" value="Create Different Types of Bibliometric Networks" />
@@ -6388,6 +6392,7 @@
         <entry key="bifurcatingr" value="Bifurcating Autoregressive Models" />
         <entry key="bigGP" value="Distributed Gaussian Process Calculations" />
         <entry key="bigMap" value="Big Data Mapping" />
+        <entry key="bigQF" value="Quadratic Forms in Large Matrices" />
         <entry key="bigQueryR" value="Interface with Google BigQuery with Shiny Compatibility" />
         <entry key="bigReg" value="Generalized Linear Models (GLM) for Large Data Sets" />
         <entry key="bigSurvSGD" value="Big Survival Analysis Using Stochastic Gradient Descent" />
@@ -7002,6 +7007,7 @@
         <entry key="chest" value="Change-in-Estimate Approach to Assess Confounding Effects" />
         <entry key="chi" value="The Chi Distribution" />
         <entry key="chi2x3way" value="Partitioning Chi-Squared and Tau Index for Three-Way Contingency Tables" />
+        <entry key="chicane" value="Capture Hi-C Analysis Engine" />
         <entry key="chickn" value="'Compressive' Hierarchical Kernel Clustering Toolbox" />
         <entry key="childdevdata" value="Child Development Data" />
         <entry key="childesr" value="Accessing the 'CHILDES' Database" />
@@ -7394,7 +7400,7 @@
         <entry key="contTimeCausal" value="Continuous Time Causal Models" />
         <entry key="contact" value="Creating Contact and Social Networks" />
         <entry key="contactdata" value="Social Contact Matrices for 152 Countries" />
-        <entry key="container" value="Deque, Set, and Dict - R6 Based Container Classes with Iterators" />
+        <entry key="container" value="Extending Base R List" />
         <entry key="contentid" value="An Interface for Content-Based Identifiers" />
         <entry key="contfrac" value="Continued Fractions" />
         <entry key="conting" value="Bayesian Analysis of Contingency Tables" />
@@ -7539,7 +7545,6 @@
         <entry key="cpca" value="Methods to perform Common Principal Component Analysis (CPCA)" />
         <entry key="cpd" value="Complex Pearson Distributions" />
         <entry key="cpk" value="Clinical Pharmacokinetics" />
-        <entry key="cplexAPI" value="R Interface to C API of IBM ILOG CPLEX" />
         <entry key="cplm" value="Compound Poisson Linear Models" />
         <entry key="cpm" value="Sequential and Batch Change Detection Using Parametric and Nonparametric Methods" />
         <entry key="cpp11" value="A C++11 Interface for R's C Interface" />
@@ -7550,7 +7555,7 @@
         <entry key="cpsR" value="Load CPS Microdata into R Using the 'Census Bureau Data' API" />
         <entry key="cpss" value="Change-Point Detection by Sample-Splitting Methods" />
         <entry key="cpsurvsim" value="Simulating Survival Data from Change-Point Hazard Distributions" />
-        <entry key="cpsvote" value="A Toolbox for Using the CPS’s Voting and Registration Supplement" />
+        <entry key="cpsvote" value="A Toolbox for Using the CPSâ€™s Voting and Registration Supplement" />
         <entry key="cpt" value="Classification Permutation Test" />
         <entry key="cptcity" value="'cpt-city' Colour Gradients" />
         <entry key="cptec" value="An Interface to the 'CPTEC/INPE' API" />
@@ -7663,6 +7668,7 @@
         <entry key="ctmcmove" value="Modeling Animal Movement with Continuous-Time Discrete-Space Markov Chains" />
         <entry key="ctmle" value="Collaborative Targeted Maximum Likelihood Estimation" />
         <entry key="ctmm" value="Continuous-Time Movement Modeling" />
+        <entry key="ctpm" value="Continuous-Time Phylogenetic Modeling" />
         <entry key="ctqr" value="Censored and Truncated Quantile Regression" />
         <entry key="ctrdata" value="Retrieve and Analyze Clinical Trials in Public Registers" />
         <entry key="ctrialsgov" value="Query Data from U.S. National Library of Medicine's Clinical Trials Database" />
@@ -7707,6 +7713,7 @@
         <entry key="cvGEE" value="Cross-Validated Predictions from GEE" />
         <entry key="cvTools" value="Cross-validation tools for regression models" />
         <entry key="cvam" value="Coarsened Variable Modeling" />
+        <entry key="cvap" value="Citizen Voting Age Population" />
         <entry key="cvar" value="Compute Expected Shortfall and Value at Risk for Continuous Distributions" />
         <entry key="cvcqv" value="Coefficient of Variation (CV) with Confidence Intervals (CI)" />
         <entry key="cvcrand" value="Efficient Design and Analysis of Cluster Randomized Trials" />
@@ -7795,6 +7802,7 @@
         <entry key="dataMaid" value="A Suite of Checks for Identification of Potential Errors in a Data Frame as Part of the Data Screening Process" />
         <entry key="dataMeta" value="Create and Append a Data Dictionary for an R Dataset" />
         <entry key="dataPreparation" value="Automated Data Preparation" />
+        <entry key="dataReporter" value="Reproducible Data Screening Checks and Report of Possible Errors" />
         <entry key="dataRetrieval" value="Retrieval Functions for USGS and EPA Hydrologic and Water Quality Data" />
         <entry key="datacleanr" value="Interactive and Reproducible Data Cleaning" />
         <entry key="datadigest" value="Create an Interactive Data Summary" />
@@ -7830,11 +7838,13 @@
         <entry key="datawizard" value="Easy Data Wrangling" />
         <entry key="datazoom.amazonia" value="Simplify Access to Data from the Amazon Region" />
         <entry key="date" value="Functions for Handling Dates" />
+        <entry key="datefixR" value="Fix Really Messy Dates" />
         <entry key="daterangepicker" value="Create a Shiny Date-Range Input" />
         <entry key="datetime" value="Nominal Dates, Times, and Durations" />
         <entry key="datetimeutils" value="Utilities for Dates and Times" />
+        <entry key="dateutils" value="Date Utils" />
         <entry key="datoramar" value="Interface to the 'Datorama' API" />
-        <entry key="datos" value="Traduce al Español Varios Conjuntos de Datos de Práctica" />
+        <entry key="datos" value="Traduce al EspaĂ±ol Varios Conjuntos de Datos de PrĂˇctica" />
         <entry key="datplot" value="Preparation of Object Dating Ranges for Density Plots (Aoristic Analysis)" />
         <entry key="datr" value="'Dat' Protocol Interface" />
         <entry key="datrProfile" value="Column Profile for Tables and Datasets" />
@@ -7993,6 +8003,7 @@
         <entry key="designsize" value="Sample Size Calculation of Various Study Designs" />
         <entry key="desirability" value="Function Optimization and Ranking via Desirability Functions" />
         <entry key="desire" value="Desirability functions in R" />
+        <entry key="desla" value="Desparsified Lasso" />
         <entry key="desplot" value="Plotting Field Plans for Agricultural Experiments" />
         <entry key="details" value="Create Details HTML Tag for Markdown and Package Documentation" />
         <entry key="detect" value="Analyzing Wildlife Data with Detection Error" />
@@ -8147,6 +8158,7 @@
         <entry key="distTails" value="A Collection of Full Defined Distribution Tails" />
         <entry key="distance.sample.size" value="Calculates Study Size Required for Distance Sampling" />
         <entry key="distances" value="Tools for Distance Metrics" />
+        <entry key="distanceto" value="Calculate Distance to Features" />
         <entry key="distantia" value="Assessing Dissimilarity Between Multivariate Time Series" />
         <entry key="distcomp" value="Computations over Distributed Data without Aggregation" />
         <entry key="distcrete" value="Discrete Distribution Approximations" />
@@ -8314,8 +8326,9 @@
         <entry key="droptest" value="Simulates LOX Drop Testing" />
         <entry key="drord" value="Doubly-Robust Estimators for Ordinal Outcomes" />
         <entry key="drought" value="Statistical Modeling and Assessment of Drought" />
-        <entry key="drpop" value="Efficient Doubly Robust Population Size Estimation" />
+        <entry key="drpop" value="Efficient and Doubly Robust Population Size Estimation" />
         <entry key="drtmle" value="Doubly-Robust Nonparametric Estimation and Inference" />
+        <entry key="drugprepr" value="Prepare Electronic Prescription Record Data to Estimate Drug Exposure" />
         <entry key="drumr" value="Turn R into a Drum Machine" />
         <entry key="ds" value="Descriptive Statistics" />
         <entry key="ds4psy" value="Data Science for Psychologists" />
@@ -8390,7 +8403,6 @@
         <entry key="dynplot" value="Visualising Single-Cell Trajectories" />
         <entry key="dynpred" value="Companion Package to &quot;Dynamic Prediction in Clinical Survival Analysis&quot;" />
         <entry key="dynprog" value="Dynamic Programming Domain-Specific Language" />
-        <entry key="dynr" value="Dynamic Models with Regime-Switching" />
         <entry key="dynsbm" value="Dynamic Stochastic Block Models" />
         <entry key="dynsim" value="Dynamic Simulations of Autoregressive Relationships" />
         <entry key="dynsurv" value="Dynamic Models for Survival Data" />
@@ -8412,6 +8424,7 @@
         <entry key="eRTG3D" value="Empirically Informed Random Trajectory Generation in 3-D" />
         <entry key="eRm" value="Extended Rasch Modeling" />
         <entry key="eSDM" value="Ensemble Tool for Predictions from Species Distribution Models" />
+        <entry key="eSIR" value="Extended State-Space SIR Models" />
         <entry key="eadrm" value="Fitting Dose-Response Models Using an Evolutionary Algorithm" />
         <entry key="eaf" value="Plots of the Empirical Attainment Function" />
         <entry key="earlyR" value="Estimation of Transmissibility in the Early Stages of a Disease Outbreak" />
@@ -8768,7 +8781,7 @@
         <entry key="eseis" value="Environmental Seismology Toolbox" />
         <entry key="esemifar" value="Smoothing Long-Memory Time Series" />
         <entry key="eshrink" value="Shrinkage for Effect Estimation" />
-        <entry key="esmisc" value="Misc Functions of Eduard Szöcs" />
+        <entry key="esmisc" value="Misc Functions of Eduard SzĂ¶cs" />
         <entry key="esmprep" value="Data Preparation During and After the Use of the Experience Sampling Methodology (ESM)" />
         <entry key="esquisse" value="Explore and Visualize Your Data Interactively" />
         <entry key="esreg" value="Joint Quantile and Expected Shortfall Regression" />
@@ -9358,6 +9371,7 @@
         <entry key="fracdist" value="Numerical CDFs for Fractional Unit Root and Cointegration Tests" />
         <entry key="fracprolif" value="Fraction Proliferation via a Quiescent Growth Model" />
         <entry key="fractD" value="Estimation of Fractal Dimension of a Black Area in 2D and 3D (Slices) Images" />
+        <entry key="fractalRegression" value="Performs Fractal Analysis and Fractal Regression" />
         <entry key="fractaldim" value="Estimation of Fractal Dimensions" />
         <entry key="fractional" value="Vulgar Fractions in R" />
         <entry key="fracture" value="Convert Decimals to Fractions" />
@@ -9478,6 +9492,7 @@
         <entry key="fuzzySim" value="Fuzzy Similarity in Species Distributions" />
         <entry key="fuzzyforest" value="Fuzzy Forests" />
         <entry key="fuzzyjoin" value="Join Tables Together on Inexact Matching" />
+        <entry key="fuzzyreg" value="Fuzzy Linear Regression" />
         <entry key="fuzzywuzzyR" value="Fuzzy String Matching" />
         <entry key="fwi.fbp" value="Fire Weather Index System and Fire Behaviour Prediction System Calculations" />
         <entry key="fwildclusterboot" value="Fast Wild Cluster Bootstrap Inference for Linear Regression Models" />
@@ -9509,7 +9524,6 @@
         <entry key="gTests" value="Graph-Based Two-Sample Tests" />
         <entry key="gWQS" value="Generalized Weighted Quantile Sum Regression" />
         <entry key="gWidgets2" value="Rewrite of gWidgets API for Simplified GUI Construction" />
-        <entry key="gWidgets2RGtk2" value="Implementation of gWidgets2 for the RGtk2 Package" />
         <entry key="gWidgets2tcltk" value="Toolkit Implementation of gWidgets2 for tcltk" />
         <entry key="gadget2" value="Gadget is the Globally-Applicable Area Disaggregated General Ecosystem Toolbox" />
         <entry key="gafit" value="Genetic Algorithm for Curve Fitting" />
@@ -9656,7 +9670,7 @@
         <entry key="genemodel" value="Gene Model Plotting in R" />
         <entry key="genepi" value="Genetic Epidemiology Design and Inference" />
         <entry key="genepop" value="Population Genetic Data Analysis Using Genepop" />
-        <entry key="generalCorr" value="Generalized Correlations and Various Causal Paths" />
+        <entry key="generalCorr" value="Generalized Correlations, Causal Paths and Portfolio Selection" />
         <entry key="generalhoslem" value="Goodness of Fit Tests for Logistic Regression Models" />
         <entry key="generator" value="Generate Data Containing Fake Personally Identifiable Information" />
         <entry key="generics" value="Common S3 Generics not Provided by Base R Methods Related to Model Fitting" />
@@ -9890,6 +9904,7 @@
         <entry key="ggpmisc" value="Miscellaneous Extensions to 'ggplot2'" />
         <entry key="ggpointdensity" value="A Cross Between a 2D Density Plot and a Scatter Plot" />
         <entry key="ggpol" value="Visualizing Social Science Data with 'ggplot2'" />
+        <entry key="ggpolar" value="Dots and Their Connections in Polar Coordinate System" />
         <entry key="ggpolypath" value="Polygons with Holes for the Grammar of Graphics" />
         <entry key="ggpp" value="Grammar Extensions to 'ggplot2'" />
         <entry key="ggprism" value="A 'ggplot2' Extension Inspired by 'GraphPad Prism'" />
@@ -9925,6 +9940,7 @@
         <entry key="ggstream" value="Create Streamplots in 'ggplot2'" />
         <entry key="ggstudent" value="Continuous Confidence Interval Plots using t-Distribution" />
         <entry key="ggswissmaps" value="Offers Various Swiss Maps as Data Frames and 'ggplot2' Objects" />
+        <entry key="ggtea" value="Palettes and Themes for 'ggplot2'" />
         <entry key="ggtern" value="An Extension to 'ggplot2', for the Creation of Ternary Diagrams" />
         <entry key="ggtext" value="Improved Text Rendering Support for 'ggplot2'" />
         <entry key="ggthemes" value="Extra Themes, Scales and Geoms for 'ggplot2'" />
@@ -10007,6 +10023,7 @@
         <entry key="glmmfields" value="Generalized Linear Mixed Models with Robust Random Fields for Spatiotemporal Modeling" />
         <entry key="glmmsr" value="Fit a Generalized Linear Mixed Model" />
         <entry key="glmnet" value="Lasso and Elastic-Net Regularized Generalized Linear Models" />
+        <entry key="glmnetSE" value="Add Nonparametric Bootstrap SE to 'glmnet' for Selected Coefficients (No Shrinkage)" />
         <entry key="glmnetUtils" value="Utilities for 'Glmnet'" />
         <entry key="glmnetcr" value="Fit a Penalized Constrained Continuation Ratio Model for Predicting an Ordinal Response" />
         <entry key="glmpath" value="L1 Regularization Path for Generalized Linear Models and Cox Proportional Hazards Model" />
@@ -10082,6 +10099,7 @@
         <entry key="googlePolylines" value="Encoding Coordinates into 'Google' Polylines" />
         <entry key="googlePrintr" value="Connect to 'Google Cloud Print' API" />
         <entry key="googlePublicData" value="Working with Google's 'Public Data Explorer' DSPL Metadata Files" />
+        <entry key="googlePubsubR" value="R Interface for Google 'Cloud Pub/Sub' REST API" />
         <entry key="googleTagManageR" value="Access the 'Google Tag Manager' API using R" />
         <entry key="googleVis" value="R Interface to Google Charts" />
         <entry key="googledrive" value="An Interface to Google Drive" />
@@ -10229,6 +10247,7 @@
         <entry key="gss" value="General Smoothing Splines" />
         <entry key="gstar" value="Generalized Space-Time Autoregressive Model" />
         <entry key="gstat" value="Spatial and Spatio-Temporal Geostatistical Modelling, Prediction and Simulation" />
+        <entry key="gstsm" value="Generalized Spatial-Time Sequence Miner" />
         <entry key="gsubfn" value="Utilities for Strings and Function Arguments" />
         <entry key="gsw" value="Gibbs Sea Water Functions" />
         <entry key="gsynth" value="Generalized Synthetic Control Method" />
@@ -10379,6 +10398,7 @@
         <entry key="hero" value="Spatio-Temporal (Hero) Sandwich Smoother" />
         <entry key="hesim" value="Health Economic Simulation Modeling and Decision Analysis" />
         <entry key="hetGP" value="Heteroskedastic Gaussian Process Modeling and Design under Replication" />
+        <entry key="hetsurr" value="Assessing Heterogeneity in the Utility of a Surrogate Marker" />
         <entry key="hett" value="Heteroscedastic t-Regression" />
         <entry key="hettreatreg" value="Heterogeneous Treatment Effects in Regression Analysis" />
         <entry key="hettx" value="Fisherian and Neymanian Methods for Detecting and Measuring Treatment Effect Variation" />
@@ -10451,7 +10471,7 @@
         <entry key="hkevp" value="Spatial Extreme Value Analysis with the Hierarchical Model of Reich and Shaby (2012)" />
         <entry key="hkex.api" value="API to Retrieve Data from Hong Kong Stock Exchange" />
         <entry key="hlaR" value="Tools for HLA Data" />
-        <entry key="hlidacr" value="Access Data from the 'Hlídač Státu' API" />
+        <entry key="hlidacr" value="Access Data from the 'HlĂ­daÄŤ StĂˇtu' API" />
         <entry key="hmclearn" value="Fit Statistical Models Using Hamiltonian Monte Carlo" />
         <entry key="hmeasure" value="The H-Measure and Other Scalar Classification Performance Metrics" />
         <entry key="hmgm" value="High-Dimensional Mixed Graphical Models Estimation" />
@@ -10477,6 +10497,7 @@
         <entry key="homologene" value="Quick Access to Homologene and Gene Annotation Updates" />
         <entry key="homomorpheR" value="Homomorphic Computations in R" />
         <entry key="homtest" value="Homogeneity tests for Regional Frequency Analysis" />
+        <entry key="hoopR" value="Functions to Access Men's Basketball Play by Play Data" />
         <entry key="hopbyhop" value="Transmissions and Receptions in a Hop by Hop Network" />
         <entry key="hopit" value="Hierarchical Ordered Probit Models with Application to Reporting Heterogeneity" />
         <entry key="hornpa" value="Horn's (1965) Test to Determine the Number of Components/Factors" />
@@ -10504,6 +10525,7 @@
         <entry key="hscovar" value="Calculation of Covariance Between Markers for Half-Sib Families" />
         <entry key="hsdar" value="Manage, Analyse and Simulate Hyperspectral Data" />
         <entry key="hse" value="The hse Distribution" />
+        <entry key="hsem" value="Hierarchical Structural Equation Model" />
         <entry key="hsicCCA" value="Canonical Correlation Analysis based on Kernel Independence Measures" />
         <entry key="hsm" value="A Path-Based BCD for Proximal Function of Latent Group Lasso" />
         <entry key="hsmm" value="Hidden Semi Markov Models" />
@@ -10582,7 +10604,7 @@
         <entry key="hypergeo" value="The Gauss Hypergeometric Function" />
         <entry key="hyperoverlap" value="Overlap Detection in n-Dimensional Space" />
         <entry key="hypersampleplan" value="Attribute Sampling Plan with Exact Hypergeometric Probabilities using Chebyshev Polynomials" />
-        <entry key="hypervolume" value="High Dimensional Geometry and Set Operations Using Kernel Density Estimation, Support Vector Machines, and Convex Hulls" />
+        <entry key="hypervolume" value="High Dimensional Geometry, Set Operations, Projection, and Inference Using Kernel Density Estimation, Support Vector Machines, and Convex Hulls" />
         <entry key="hypoRF" value="Random Forest Two-Sample Tests" />
         <entry key="hypothesestest" value="Confidence Intervals and Tests of Statistical Hypotheses" />
         <entry key="hypothesisr" value="Wrapper for the 'Hypothes.is' Web Annotation Service" />
@@ -10613,7 +10635,7 @@
         <entry key="iForecast" value="Machine Learning Time Series Forecasting" />
         <entry key="iGSEA" value="Integrative Gene Set Enrichment Analysis Approaches" />
         <entry key="iGasso" value="Statistical Tests and Utilities for Genetic Association" />
-        <entry key="iGraphMatch" value="Tools Graph Matching" />
+        <entry key="iGraphMatch" value="Tools for Graph Matching" />
         <entry key="iIneq" value="Computing Individual Components of the Gini and the Theil Indices" />
         <entry key="iMRMC" value="Multi-Reader, Multi-Case Analysis Methods (ROC, Agreement, and Other Metrics)" />
         <entry key="iMediate" value="Likelihood Methods for Mediation Analysis" />
@@ -10661,7 +10683,6 @@
         <entry key="ica" value="Independent Component Analysis" />
         <entry key="ical" value="'iCalendar' Parsing" />
         <entry key="icapca" value="Mixed ICA/PCA" />
-        <entry key="icardaFIGSr" value="Subsetting using Focused Identification of the Germplasm Strategy (FIGS)" />
         <entry key="icarus" value="Calibrates and Reweights Units in Samples" />
         <entry key="iccCounts" value="Intraclass Correlation Coefficient for Count Data" />
         <entry key="iccbeta" value="Multilevel Model Intraclass Correlation for Slope Heterogeneity" />
@@ -10801,7 +10822,7 @@
         <entry key="indirect" value="Elicitation of Independent Conditional Means Priors for Generalised Linear Models" />
         <entry key="individual" value="Framework for Specifying and Simulating Individual Based Models" />
         <entry key="industRial" value="Data, Functions and Support Materials from the Book &quot;industRial Data Science&quot;" />
-        <entry key="inegiR" value="Integrate INEGI’s (Mexican Stats Office) API with R" />
+        <entry key="inegiR" value="Integrate INEGIâ€™s (Mexican Stats Office) API with R" />
         <entry key="ineq" value="Measuring Inequality, Concentration, and Poverty" />
         <entry key="ineqJD" value="Inequality Joint Decomposition" />
         <entry key="infer" value="Tidy Statistical Inference" />
@@ -10945,7 +10966,7 @@
         <entry key="irr" value="Various Coefficients of Interrater Reliability and Agreement" />
         <entry key="irrCAC" value="Computing Chance-Corrected Agreement Coefficients (CAC)" />
         <entry key="irrICC" value="Intraclass Correlations for Quantifying Inter-Rater Reliability" />
-        <entry key="irrNA" value="Coefficients of Interrater Reliability – Generalized for Randomly Incomplete Datasets" />
+        <entry key="irrNA" value="Coefficients of Interrater Reliability â€“ Generalized for Randomly Incomplete Datasets" />
         <entry key="irt" value="Item Response Theory and Computerized Adaptive Testing Functions" />
         <entry key="irtDemo" value="Item Response Theory Demo Collection" />
         <entry key="irtGUI" value="Item Response Theory Analysis with a Graphic User Interface" />
@@ -11115,6 +11136,7 @@
         <entry key="kStatistics" value="Unbiased Estimators for Cumulant Products and Faa Di Bruno's Formula" />
         <entry key="kableExtra" value="Construct Complex Table with 'kable' and Pipe Syntax" />
         <entry key="kader" value="Kernel Adaptive Density Estimation and Regression" />
+        <entry key="kairos" value="Analysis of Chronological Patterns from Archaeological Count Data" />
         <entry key="kamila" value="Methods for Clustering Mixed-Type Data" />
         <entry key="kangar00" value="Kernel Approaches for Nonlinear Genetic Association Regression" />
         <entry key="kantorovich" value="Kantorovich Distance Between Probability Measures" />
@@ -11201,7 +11223,6 @@
         <entry key="klustR" value="D3 Dynamic Cluster Visualizations" />
         <entry key="km.ci" value="Confidence intervals for the Kaplan-Meier estimator" />
         <entry key="kmc" value="Kaplan-Meier Estimator with Constraints for Right Censored Data – a Recursive Computational Algorithm" />
-        <entry key="kmcudaR" value="'Yingyang' K-Means and K-NN using NVIDIA CUDA" />
         <entry key="kmed" value="Distance-Based k-Medoids" />
         <entry key="kmer" value="Fast K-Mer Counting and Clustering for Biological Sequence Analysis" />
         <entry key="kmi" value="Kaplan-Meier Multiple Imputation for the Analysis of Cumulative Incidence Functions in the Competing Risks Setting" />
@@ -11372,6 +11393,7 @@
         <entry key="ldatuning" value="Tuning of the Latent Dirichlet Allocation Models Parameters" />
         <entry key="ldbod" value="Local Density-Based Outlier Detection" />
         <entry key="ldbounds" value="Lan-DeMets Method for Group Sequential Boundaries" />
+        <entry key="lddmm" value="Longitudinal Drift-Diffusion Mixed Models (LDDMM)" />
         <entry key="ldhmm" value="Hidden Markov Model for Financial Time-Series Based on Lambda Distribution" />
         <entry key="ldsep" value="Linkage Disequilibrium Shrinkage Estimation for Polyploids" />
         <entry key="ldsr" value="Linear Dynamical System Reconstruction" />
@@ -11512,7 +11534,7 @@
         <entry key="liqueueR" value="Implements Queue, PriorityQueue and Stack Classes" />
         <entry key="lira" value="LInear Regression in Astronomy" />
         <entry key="lisa" value="Color Palettes from Color Lisa" />
-        <entry key="lisp" value="List-processing à la SRFI-1" />
+        <entry key="lisp" value="List-processing Ă  la SRFI-1" />
         <entry key="lisrelToR" value="Import output from LISREL into R" />
         <entry key="list" value="Statistical Methods for the Item Count Technique and List Experiment" />
         <entry key="listArray" value="Incomplete Array with Arbitrary R Objects as Indices" />
@@ -11524,6 +11546,7 @@
         <entry key="listdtr" value="List-Based Rules for Dynamic Treatment Regimes" />
         <entry key="listenv" value="Environments Behaving (Almost) as Lists" />
         <entry key="listviewer" value="'htmlwidget' for Interactive Views of R Lists" />
+        <entry key="litRiddle" value="Dataset and Tools to Research the Riddle of Literary Quality" />
         <entry key="liteq" value="Lightweight Portable Message Queue Using 'SQLite'" />
         <entry key="litteR" value="Litter Analysis" />
         <entry key="littler" value="R at the Command-Line via 'r'" />
@@ -11573,6 +11596,7 @@
         <entry key="lmviz" value="A Package to Visualize Linear Models Features and Play with Them" />
         <entry key="lncDIFF" value="Long Non-Coding RNA Differential Expression Analysis" />
         <entry key="loa" value="Lattice Options and Add-Ins" />
+        <entry key="loadflux" value="Explore Intra-Event Suspended Sediment Dynamics" />
         <entry key="loadings" value="Loadings for Principal Component Analysis and Partial Least Squares" />
         <entry key="loadr" value="Cleaner Workspaces with Shared Variable Environments" />
         <entry key="lobstr" value="Visualize R Data Structures with Trees" />
@@ -11732,6 +11756,7 @@
         <entry key="mBvs" value="Bayesian Variable Selection Methods for Multivariate Data" />
         <entry key="mDAG" value="Inferring Causal Network from Mixed Observational Data Using a Directed Acyclic Graph" />
         <entry key="mExplorer" value="Identifying Master Gene Regulators from Gene Expression and DNA-Binding Data" />
+        <entry key="mFD" value="Compute and Illustrate the Multiple Facets of Functional Diversity" />
         <entry key="mFLICA" value="Leadership-Inference Framework for Multivariate Time Series" />
         <entry key="mFilter" value="Miscellaneous Time Series Filters" />
         <entry key="mGSZ" value="Gene set analysis based on GSZ-scoring function and asymptotic p-value" />
@@ -11744,7 +11769,6 @@
         <entry key="mSTEM" value="Multiple Testing of Local Extrema for Detection of Change Points" />
         <entry key="mSimCC" value="Micro Simulation Model for Cervical Cancer Prevention" />
         <entry key="mStats" value="Epidemiological Data Analysis" />
-        <entry key="maGUI" value="A Graphical User Interface for Microarray Data Analysis and Annotation" />
         <entry key="maSAE" value="Mandallaz' Model-Assisted Small Area Estimators" />
         <entry key="maat" value="Multiple Administrations Adaptive Testing" />
         <entry key="mable" value="Maximum Approximate Bernstein/Beta Likelihood Estimation" />
@@ -11857,6 +11881,7 @@
         <entry key="marqLevAlg" value="A Parallelized General-Purpose Optimization Based on Marquardt-Levenberg Algorithm" />
         <entry key="mase" value="Model-Assisted Survey Estimators" />
         <entry key="mashr" value="Multivariate Adaptive Shrinkage" />
+        <entry key="maskRangeR" value="Mask Species Geographic Ranges" />
         <entry key="mason" value="Build Data Structures for Common Statistical Analysis" />
         <entry key="masscor" value="Mass Measurement Corrections" />
         <entry key="mastif" value="Mast Inference and Forecasting" />
@@ -11953,7 +11978,6 @@
         <entry key="mclustcomp" value="Measures for Comparing Clusters" />
         <entry key="mcmc" value="Markov Chain Monte Carlo" />
         <entry key="mcmcOutput" value="Functions to Store, Manipulate and Display Markov Chain Monte Carlo (MCMC) Output" />
-        <entry key="mcmcabn" value="Flexible Implementation of a Structural MCMC Sampler for DAGs" />
         <entry key="mcmcderive" value="Derive MCMC Parameters" />
         <entry key="mcmcensemble" value="Ensemble Sampler for Affine-Invariant MCMC" />
         <entry key="mcmcplots" value="Create Plots from MCMC Output" />
@@ -11968,6 +11992,7 @@
         <entry key="mcreplicate" value="Multi-Core Replicate" />
         <entry key="mcsm" value="Functions for Monte Carlo Methods with R" />
         <entry key="mctest" value="Multicollinearity Diagnostic Measures" />
+        <entry key="mctq" value="Tools to Process the Munich ChronoType Questionnaire (MCTQ)" />
         <entry key="mcunit" value="Unit Tests for MC Methods" />
         <entry key="mcvis" value="Multi-Collinearity Visualization" />
         <entry key="mcwr" value="Markov Chains with Rewards" />
@@ -12171,7 +12196,6 @@
         <entry key="micar" value="'Mica' Data Web Portal Client" />
         <entry key="mice" value="Multivariate Imputation by Chained Equations" />
         <entry key="miceFast" value="Fast Imputations Using 'Rcpp' and 'Armadillo'" />
-        <entry key="miceMNAR" value="Missing not at Random Imputation Models for Multiple Imputation by Chained Equation" />
         <entry key="miceRanger" value="Multiple Imputation by Chained Equations with Random Forests" />
         <entry key="miceadds" value="Some Additional Multiple Imputation Functions, Especially for 'mice'" />
         <entry key="micemd" value="Multiple Imputation by Chained Equations with Multilevel Data" />
@@ -12265,6 +12289,7 @@
         <entry key="missMethods" value="Methods for Missing Data" />
         <entry key="missRanger" value="Fast Imputation of Missing Values" />
         <entry key="missSBM" value="Handling Missing Data in Stochastic Block Models" />
+        <entry key="missSOM" value="Self-Organizing Maps with Built-in Missing Data Imputation" />
         <entry key="missingHE" value="Missing Outcome Data in Health Economic Evaluation" />
         <entry key="mistat" value="Data Sets, Functions and Examples from the Book: &quot;Modern Industrial Statistics&quot; by Kenett, Zacks and Amberti" />
         <entry key="mistr" value="Mixture and Composite Distributions" />
@@ -12296,7 +12321,6 @@
         <entry key="mixedsde" value="Estimation Methods for Stochastic Differential Mixed Effects Models" />
         <entry key="mixexp" value="Design and Analysis of Mixture Experiments" />
         <entry key="mixl" value="Simulated Maximum Likelihood Estimation of Mixed Logit Models for Large Datasets" />
-        <entry key="mixlink" value="Mixture Link Regression" />
         <entry key="mixlm" value="Mixed Model ANOVA and Statistics for Education" />
         <entry key="mixmeta" value="An Extended Mixed-Effects Framework for Meta-Analysis" />
         <entry key="mixpoissonreg" value="Mixed Poisson Regression for Overdispersed Count Data" />
@@ -12389,7 +12413,6 @@
         <entry key="mmm2" value="Multivariate marginal models with shared regression parameters" />
         <entry key="mmmgee" value="Simultaneous Inference for Multiple Linear Contrasts in GEE Models" />
         <entry key="mmod" value="Modern Measures of Population Differentiation" />
-        <entry key="mmpca" value="Integrative Analysis of Several Related Data Matrices" />
         <entry key="mmpf" value="Monte-Carlo Methods for Prediction Functions" />
         <entry key="mmpp" value="Various Similarity and Distance Metrics for Marked Point Processes" />
         <entry key="mmr" value="Matrix Multiplication on Data.frames" />
@@ -12486,7 +12509,6 @@
         <entry key="monobinShiny" value="Shiny User Interface for 'monobin' Package" />
         <entry key="monographaR" value="Taxonomic Monographs Tools" />
         <entry key="monomvn" value="Estimation for MVN and Student-t Data with Monotone Missingness" />
-        <entry key="monoreg" value="Bayesian Monotonic Regression Using a Marked Point Process Construction" />
         <entry key="monotone" value="Performs Monotone Regression" />
         <entry key="monotonicity" value="Test for Monotonicity in Expected Asset Returns, Sorted by Portfolios" />
         <entry key="monreg" value="Nonparametric Monotone Regression" />
@@ -12749,13 +12771,13 @@
         <entry key="mvprpb" value="Orthant Probability of the Multivariate Normal Distribution" />
         <entry key="mvrsquared" value="Compute the Coefficient of Determination for Vector or Matrix Outcomes" />
         <entry key="mvrtn" value="Mean and Variance of Truncated Normal Distribution" />
-        <entry key="mvst" value="Bayesian Inference for the Multivariate Skew-t Model" />
         <entry key="mvtmeta" value="Multivariate Meta-Analysis" />
         <entry key="mvtnorm" value="Multivariate Normal and t Distributions" />
         <entry key="mvtsplot" value="Multivariate Time Series Plot" />
         <entry key="mwTensor" value="Multi-Way Component Analysis" />
         <entry key="mwa" value="Causal Inference in Spatiotemporal Event Data" />
         <entry key="mwaved" value="Multichannel Wavelet Deconvolution with Additive Long Memory Noise" />
+        <entry key="mwcsr" value="Solvers for the Maximum Weight Connected Subgraph Problem and Its Variants" />
         <entry key="mwshiny" value="'Shiny' for Multiple Windows" />
         <entry key="mxkssd" value="Efficient mixed-level k-circulant supersaturated designs" />
         <entry key="mxmmod" value="Measurement Model of Derivatives in 'OpenMx'" />
@@ -12831,7 +12853,6 @@
         <entry key="ndjson" value="Wicked-Fast Streaming 'JSON' ('ndjson') Reader" />
         <entry key="ndl" value="Naive Discriminative Learning" />
         <entry key="ndtv" value="Network Dynamic Temporal Visualizations" />
-        <entry key="nearfar" value="Near-Far Matching" />
         <entry key="neariso" value="Near-Isotonic Regression" />
         <entry key="neat" value="Efficient Network Enrichment Analysis Test" />
         <entry key="neatRanges" value="Tidy Up Date/Time Ranges" />
@@ -13250,6 +13271,7 @@
         <entry key="opencv" value="Bindings to 'OpenCV' Computer Vision Library" />
         <entry key="opendatatoronto" value="Access the City of Toronto Open Data Portal" />
         <entry key="opendotaR" value="Interface for OpenDota API" />
+        <entry key="openeo" value="Client Interface for 'openEO' Servers" />
         <entry key="openintro" value="Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs" />
         <entry key="openmetrics" value="A 'Prometheus' Client for R Using the 'OpenMetrics' Format" />
         <entry key="openssl" value="Toolkit for Encryption, Signatures and Certificates Based on OpenSSL" />
@@ -13441,6 +13463,7 @@
         <entry key="pageviews" value="An API Client for Wikimedia Traffic Data" />
         <entry key="pagoda2" value="Single Cell Analysis and Differential Expression" />
         <entry key="pagoo" value="Analyze Bacterial Pangenomes in R with 'Pagoo'" />
+        <entry key="painbow" value="Use XKCD's &quot;Painbow&quot; Colormap in ggplot2" />
         <entry key="painter" value="Creation and Manipulation of Color Palettes" />
         <entry key="paintmap" value="Plotting Paintmaps" />
         <entry key="pairedCI" value="Confidence intervals for the ratio of locations and for the ratio of scales of two paired samples" />
@@ -13590,11 +13613,7 @@
         <entry key="pbapply" value="Adding Progress Bar to '*apply' Functions" />
         <entry key="pbatR" value="Pedigree/Family-Based Genetic Association Tests Analysis and Power" />
         <entry key="pbbd" value="Position Balanced and Nearly Position Balanced Block Designs" />
-        <entry key="pbdBASE" value="Programming with Big Data – Base Wrappers for Distributed Matrices" />
         <entry key="pbdMPI" value="Programming with Big Data – Interface to MPI" />
-        <entry key="pbdPROF" value="Programming with Big Data – MPI Profiling Tools" />
-        <entry key="pbdRPC" value="Programming with Big Data – Remote Procedure Call" />
-        <entry key="pbdSLAP" value="Programming with Big Data – Scalable Linear Algebra Packages" />
         <entry key="pbdZMQ" value="Programming with Big Data – Interface to 'ZeroMQ'" />
         <entry key="pbivnorm" value="Vectorized Bivariate Normal CDF" />
         <entry key="pbixr" value="Access Data and Metadata from 'Microsoft' 'Power BI' Documents" />
@@ -13708,7 +13727,6 @@
         <entry key="pergola" value="Toolbox for Polyploid Genetic Data" />
         <entry key="periscope" value="Enterprise Streamlined 'Shiny' Application Framework" />
         <entry key="perm" value="Exact or Asymptotic Permutation Tests" />
-        <entry key="permGPU" value="Using GPUs in Statistical Genomics" />
         <entry key="permGS" value="Permutational Group Sequential Test for Time-to-Event Data" />
         <entry key="permPATH" value="Permutation Based Gene Expression Pathway Analysis" />
         <entry key="permimp" value="Conditional Permutation Importance" />
@@ -13794,7 +13812,6 @@
         <entry key="photobiologySun" value="Data for Sunlight Spectra" />
         <entry key="photobiologyWavebands" value="Waveband Definitions for UV, VIS, and IR Radiation" />
         <entry key="photosynthesis" value="Tools for Plant Ecophysiology &amp; Modeling" />
-        <entry key="phreeqc" value="R Interface to Geochemical Modeling Software" />
         <entry key="phuassess" value="Proportional Habitat Use Assessment" />
         <entry key="phyclust" value="Phylogenetic Clustering (Phyloclustering)" />
         <entry key="phyext2" value="An Extension (for Package 'SigTree') of Some of the Classes in Package 'phylobase'" />
@@ -13901,7 +13918,6 @@
         <entry key="pleLMA" value="Pseudo-Likelihood Estimation of Log-Multiplicative Association Models" />
         <entry key="pleio" value="Pleiotropy Test for Multiple Traits on a Genetic Marker" />
         <entry key="pleiotest" value="Fast Sequential Pleiotropy Test" />
-        <entry key="plfMA" value="A GUI to View, Design and Export Various Graphs of Data" />
         <entry key="plfm" value="Probabilistic Latent Feature Analysis" />
         <entry key="plgp" value="Particle Learning of Gaussian Processes" />
         <entry key="pliman" value="Tools for Plant Image Analysis" />
@@ -14053,6 +14069,7 @@
         <entry key="popPCR" value="Classify Digital PCR Droplets by Fitting Fluorescence Populations" />
         <entry key="popRF" value="Random Forest-Informed Population Disaggregation" />
         <entry key="popReconstruct" value="Reconstruct Human Populations of the Recent Past" />
+        <entry key="popbayes" value="Bayesian Model to Estimate Population Trends from Counts Series" />
         <entry key="popbio" value="Construction and Analysis of Matrix Population Models" />
         <entry key="popdemo" value="Demographic Modelling Using Projection Matrices" />
         <entry key="popgenr" value="Accompaniment to Population Genetics with R: An Introduction for Life Scientists" />
@@ -14122,7 +14139,7 @@
         <entry key="prais" value="Prais-Winsten Estimator for AR(1) Serial Correlation" />
         <entry key="praise" value="Praise Users" />
         <entry key="praktikum" value="Kvantitatiivsete meetodite praktikumi asjad / Functions used in the course &quot;Quantitative methods in behavioural sciences&quot; (SHPH.00.004), University of Tartu" />
-        <entry key="praznik" value="Tools for Information-Based Feature Selection" />
+        <entry key="praznik" value="Tools for Information-Based Feature Selection and Scoring" />
         <entry key="prcbench" value="Testing Workbench for Precision-Recall Curves" />
         <entry key="prclust" value="Penalized Regression-Based Clustering Method" />
         <entry key="prcr" value="Person-Centered Analysis" />
@@ -14479,6 +14496,7 @@
         <entry key="qtlhot" value="Inference for QTL Hotspots" />
         <entry key="qtlmt" value="Tools for Mapping Multiple Complex Traits" />
         <entry key="qtlnet" value="Causal Inference of QTL Networks" />
+        <entry key="qtlpoly" value="Random-Effect Multiple QTL Mapping in Autopolyploids" />
         <entry key="quRan" value="Complete Text of the Qur'an" />
         <entry key="quad" value="Exact permutation moments of quadratic form statistics" />
         <entry key="quadmatrix" value="Solving Quadratic Matrix Equations" />
@@ -14603,7 +14621,6 @@
         <entry key="rFUSION" value="Interface to FUSION" />
         <entry key="rFerns" value="Random Ferns Classifier" />
         <entry key="rForest" value="Forest Inventory and Analysis" />
-        <entry key="rGEDI" value="NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing" />
         <entry key="rGammaGamma" value="Gamma convolutions for methylation array background correction" />
         <entry key="rGroovy" value="Groovy Language Integration" />
         <entry key="rHealthDataGov" value="Retrieve data sets from the HealthData.gov data API" />
@@ -14961,6 +14978,7 @@
         <entry key="redoc" value="Generates 'Redoc' Documentation from an 'OpenAPI' Specification" />
         <entry key="redux" value="R Bindings to 'hiredis'" />
         <entry key="ref.ICAR" value="Objective Bayes Intrinsic Conditional Autoregressive Model for Areal Data" />
+        <entry key="refer" value="Create Object References" />
         <entry key="referenceIntervals" value="Reference Intervals" />
         <entry key="refineR" value="Reference Interval Estimation using Real-World Data" />
         <entry key="refinr" value="Cluster and Merge Similar Values Within a Character Vector" />
@@ -15092,6 +15110,7 @@
         <entry key="retistruct" value="Retinal Reconstruction Program" />
         <entry key="retractcheck" value="Retraction Scanner" />
         <entry key="retriever" value="Generate Disease-Specific Response Signatures from the LINCS-L1000 Data" />
+        <entry key="retrocombinator" value="Simulating the Molecular Evolutionary Process of Retrotransposon Recombination" />
         <entry key="retrodesign" value="Tools for Type S (Sign) and Type M (Magnitude) Errors" />
         <entry key="retroharmonize" value="Ex Post Survey Data Harmonization" />
         <entry key="retrosheet" value="Import Professional Baseball Data from 'Retrosheet'" />
@@ -15147,7 +15166,6 @@
         <entry key="rgeoprofile" value="Geographic Profiling Methods for Serial Crime Analysis" />
         <entry key="rgeos" value="Interface to Geometry Engine - Open Source ('GEOS')" />
         <entry key="rgexf" value="Build, Import and Export GEXF Graph Files" />
-        <entry key="rgho" value="Access WHO Global Health Observatory Data from R" />
         <entry key="rgl" value="3D Visualization Using OpenGL" />
         <entry key="rglobi" value="R Interface to Global Biotic Interactions" />
         <entry key="rglwidget" value="'rgl' in 'htmlwidgets' Framework" />
@@ -15160,6 +15178,7 @@
         <entry key="rgrass7" value="Interface Between GRASS 7 Geographical Information System and R" />
         <entry key="rgrassdoc" value="Consult 'Grass GIS' Documentation in the RStudio Viewer or your Browser" />
         <entry key="rgsp" value="Repetitive Group Sampling Plan Based on Cpk" />
+        <entry key="rgtmx" value="Manage GTmetrix Tests in R" />
         <entry key="rgugik" value="Search and Retrieve Spatial Data from 'GUGiK'" />
         <entry key="rgw" value="Goodman-Weare Affine-Invariant Sampling" />
         <entry key="rhandsontable" value="Interface to the 'Handsontable.js' Library" />
@@ -15174,6 +15193,7 @@
         <entry key="rhosp" value="Side Effect Risks in Hospital : Simulation and Estimation" />
         <entry key="rhub" value="Connect to 'R-hub'" />
         <entry key="rhymer" value="Wrapper for the 'Datamuse' API to Find Rhyming and Associated Words" />
+        <entry key="rhype" value="Work with Hypergraphs in R" />
         <entry key="ri" value="ri: R package for performing randomization-based inference for experiments" />
         <entry key="ri2" value="Randomization Inference for Randomized Experiments" />
         <entry key="ribd" value="Pedigree-based Relatedness Coefficients" />
@@ -15295,7 +15315,6 @@
         <entry key="rnbp" value="Wrapper for the National Bank of Poland API" />
         <entry key="rncl" value="An Interface to the Nexus Class Library" />
         <entry key="rneos" value="XML-RPC Interface to NEOS" />
-        <entry key="rnetcarto" value="Fast Network Modularity and Roles Computation by Simulated Annealing (Rgraph C Library Wrapper for R)" />
         <entry key="rngSetSeed" value="Seeding the Default RNG with a Numeric Vector" />
         <entry key="rngWELL" value="Toolbox for WELL Random Number Generators" />
         <entry key="rngtools" value="Utility Functions for Working with Random Number Generators" />
@@ -15321,6 +15340,7 @@
         <entry key="robis" value="Ocean Biodiversity Information System (OBIS) Client" />
         <entry key="robmed" value="(Robust) Mediation Analysis" />
         <entry key="robmixglm" value="Robust Generalized Linear Models (GLM) using Mixtures" />
+        <entry key="robnptests" value="Robust Nonparametric Two-Sample Tests for Location/Scale" />
         <entry key="robomit" value="Robustness Checks for Omitted Variable Bias" />
         <entry key="robotstxt" value="A 'robots.txt' Parser and 'Webbot'/'Spider'/'Crawler' Permissions Checker" />
         <entry key="robreg3S" value="Three-Step Regression and Inference for Cellwise and Casewise Contamination" />
@@ -15357,6 +15377,7 @@
         <entry key="rockchalk" value="Regression Estimation and Presentation" />
         <entry key="rockr" value="'Rock' R Server Client" />
         <entry key="roclang" value="Functions for Diffusing Function Documentations into 'Roxygen' Comments" />
+        <entry key="rocnp" value="Work with Romanian Personal Numeric Codes PNC / CNP" />
         <entry key="rococo" value="Robust Rank Correlation Coefficient and Test" />
         <entry key="rocsvm.path" value="The Entire Solution Paths for ROC-SVM" />
         <entry key="rodd" value="Optimal Discriminating Designs" />
@@ -15572,6 +15593,7 @@
         <entry key="ruler" value="Tidy Data Validation Reports" />
         <entry key="rules" value="Model Wrappers for Rule-Based Models" />
         <entry key="rumidas" value="Univariate GARCH-MIDAS, Double-Asymmetric GARCH-MIDAS and MEM-MIDAS" />
+        <entry key="runcharter" value="Automatically Plot, Analyse and Revises Limits of Multiple Run Charts" />
         <entry key="runes" value="Convert Strings to Elder Futhark Runes" />
         <entry key="runexp" value="Softball Run Expectancy using Markov Chains and Simulation" />
         <entry key="runjags" value="Interface Utilities, Model Templates, Parallel Computing Methods and Additional Distributions for MCMC Models in JAGS" />
@@ -15703,7 +15725,6 @@
         <entry key="sapevom" value="Group Ordinal Method for Multiple Criteria Decision-Making" />
         <entry key="sapfluxnetr" value="Working with 'Sapfluxnet' Project Data" />
         <entry key="saqgetr" value="Import Air Quality Monitoring Data in a Fast and Easy Way" />
-        <entry key="sara4r" value="An R-GUI for Spatial Analysis of Surface Runoff using the NRCS-CN Method" />
         <entry key="sarima" value="Simulation and Prediction with Seasonal ARIMA Models" />
         <entry key="sarp.snowprofile" value="Snow Profile Analysis for Snowpack and Avalanche Research" />
         <entry key="sarp.snowprofile.alignment" value="Snow Profile Alignment, Aggregation, and Clustering" />
@@ -15714,7 +15735,7 @@
         <entry key="sasMap" value="Static 'SAS' Code Analysis" />
         <entry key="sasfunclust" value="Sparse and Smooth Functional Clustering" />
         <entry key="sass" value="Syntactically Awesome Style Sheets ('Sass')" />
-        <entry key="sassy" value="Makes 'R' Easier for 'SAS®' Programmers" />
+        <entry key="sassy" value="Makes 'R' Easier for 'SASÂ®' Programmers" />
         <entry key="sate" value="Scientific Analysis of Trial Errors (SATE)" />
         <entry key="satellite" value="Handling and Manipulating Remote Sensing Data" />
         <entry key="satin" value="Visualisation and Analysis of Ocean Data Derived from Satellites" />
@@ -15722,6 +15743,7 @@
         <entry key="saturnin" value="Spanning Trees Used for Network Inference" />
         <entry key="saves" value="Fast load variables" />
         <entry key="savonliquide" value="Accessibility Toolbox for 'R' Users" />
+        <entry key="sawnuti" value="Comparing Sequences with Non-Uniform Time Intervals" />
         <entry key="saws" value="Small-Sample Adjustments for Wald Tests Using Sandwich Estimators" />
         <entry key="sazedR" value="Parameter-Free Domain-Agnostic Season Length Detection in Time Series" />
         <entry key="sbfc" value="Selective Bayesian Forest Classifier" />
@@ -15850,6 +15872,7 @@
         <entry key="season" value="Seasonal Analysis of Health Data" />
         <entry key="seasonal" value="R Interface to X-13-ARIMA-SEATS" />
         <entry key="seasonalclumped" value="Toolbox for Clumped Isotope Seasonality Reconstructions" />
+        <entry key="seasonalityPlot" value="Seasonality Variation Plots of Stock Prices and Cryptocurrencies" />
         <entry key="seasonalview" value="Graphical User Interface for Seasonal Adjustment" />
         <entry key="seastests" value="Seasonality Tests" />
         <entry key="seawaveQ" value="SEAWAVE-Q Model" />
@@ -15902,6 +15925,7 @@
         <entry key="semPower" value="Power Analyses for SEM" />
         <entry key="semTable" value="Structural Equation Modeling Tables" />
         <entry key="semTools" value="Useful Tools for Structural Equation Modeling" />
+        <entry key="semantic.dashboard" value="Dashboard with Fomantic UI Support for Shiny" />
         <entry key="semdiag" value="Structural equation modeling diagnostics" />
         <entry key="semdrw" value="'SEM Shiny'" />
         <entry key="semds" value="Structural Equation Multidimensional Scaling" />
@@ -16042,6 +16066,7 @@
         <entry key="shiny.react" value="Tools for Using React in Shiny" />
         <entry key="shiny.reglog" value="Optional Login and Registration Module System for ShinyApps" />
         <entry key="shiny.router" value="Basic Routing for Shiny Web Applications" />
+        <entry key="shiny.semantic" value="Semantic UI Support for Shiny" />
         <entry key="shiny.worker" value="Delegate Jobs for Shiny Web Applications" />
         <entry key="shinyAce" value="Ace Editor Bindings for Shiny" />
         <entry key="shinyBS" value="Twitter Bootstrap Components for Shiny" />
@@ -16212,7 +16237,7 @@
         <entry key="simplegraph" value="Simple Graph Data Types and Basic Algorithms" />
         <entry key="simplegraphdb" value="A Simple Graph Database" />
         <entry key="simplermarkdown" value="Simple Engine for Generating Reports using R" />
-        <entry key="simplevis" value="Simple 'ggplot2' Visualisation with Less Brainpower" />
+        <entry key="simplevis" value="Simple 'ggplot2' and 'leaflet' Visualisation with Less Brainpower" />
         <entry key="simplexreg" value="Regression Analysis of Proportional Data Using Simplex Distribution" />
         <entry key="simplextree" value="Provides Tools for Working with General Simplicial Complexes" />
         <entry key="simputation" value="Simple Imputation" />
@@ -16251,6 +16276,7 @@
         <entry key="siteymlgen" value="Automatically Generate _site.yml File for 'R Markdown'" />
         <entry key="sitmo" value="Parallel Pseudo Random Number Generator (PPRNG) 'sitmo' Header Files" />
         <entry key="sitools" value="Format a number to a string with SI prefix" />
+        <entry key="sitree" value="Single Tree Simulator" />
         <entry key="sivs" value="Stable Iterative Variable Selection" />
         <entry key="sizeMat" value="Estimate Size at Sexual Maturity" />
         <entry key="sjPlot" value="Data Visualization for Statistics in Social Science" />
@@ -16307,7 +16333,6 @@
         <entry key="smam" value="Statistical Modeling of Animal Movements" />
         <entry key="smapr" value="Acquisition and Processing of NASA Soil Moisture Active-Passive (SMAP) Data" />
         <entry key="smartDesign" value="Sequential Multiple Assignment Randomized Trial Design" />
-        <entry key="smartR" value="Spatial Management and Assessment of Demersal Resources for Trawl Fisheries" />
         <entry key="smartmap" value="Smartly Create Maps from R Objects" />
         <entry key="smartsizer" value="Power Analysis for a SMART Design" />
         <entry key="smartsnp" value="Fast Multivariate Analyses of Big Genomic Data" />
@@ -16348,6 +16373,7 @@
         <entry key="sms" value="Spatial Microsimulation" />
         <entry key="smss" value="Datasets for Agresti and Finlay's &quot;Statistical Methods for the Social Sciences&quot;" />
         <entry key="smurf" value="Sparse Multi-Type Regularized Feature Modeling" />
+        <entry key="smvgraph" value="Various Multivariate Graphics with Variable Choice in Shiny Apps" />
         <entry key="sn" value="The Skew-Normal and Related Distributions Such as the Skew-t and the SUN" />
         <entry key="sna" value="Tools for Social Network Analysis" />
         <entry key="snahelper" value="'RStudio' Addin for Network Analysis and Visualization" />
@@ -16444,6 +16470,7 @@
         <entry key="spMaps" value="Europe SpatialPolygonsDataFrame Builder" />
         <entry key="spNNGP" value="Spatial Regression Models for Large Datasets using Nearest Neighbor Gaussian Processes" />
         <entry key="spNetwork" value="Spatial Analysis on Network" />
+        <entry key="spOccupancy" value="Single Species, Multispecies, and Integrated Spatial Occupancy Models" />
         <entry key="spTDyn" value="Spatially Varying and Spatio-Temporal Dynamic Linear Models" />
         <entry key="spThin" value="Functions for Spatial Thinning of Species Occurrence Records for Use in Ecological Models" />
         <entry key="spTimer" value="Spatio-Temporal Bayesian Modelling" />
@@ -16510,7 +16537,6 @@
         <entry key="sparta" value="Sparse Tables" />
         <entry key="spass" value="Study Planning and Adaptation of Sample Size" />
         <entry key="spatPomp" value="Inference for Spatiotemporal Partially Observed Markov Processes" />
-        <entry key="spate" value="Spatio-Temporal Modeling of Large Data Using a Spectral SPDE Approach" />
         <entry key="spatgraphs" value="Graph Edge Computations for Spatial Point Patterns" />
         <entry key="spathial" value="Evolutionary Analysis" />
         <entry key="spatial" value="Functions for Kriging and Point Pattern Analysis" />
@@ -16582,7 +16608,6 @@
         <entry key="sperrorest" value="Perform Spatial Error Estimation and Variable Importance in Parallel" />
         <entry key="spex" value="Spatial Extent Tools" />
         <entry key="spfda" value="Function-on-Scalar Regression with Group-Bridge Penalty" />
-        <entry key="spfilteR" value="Semiparametric Spatial Filtering with Eigenvectors in (Generalized) Linear Models" />
         <entry key="spflow" value="Spatial Econometric Interaction Models" />
         <entry key="spfrontier" value="Spatial Stochastic Frontier Models" />
         <entry key="spftir" value="Pre-Processing and Analysis of Mid-Infrared Spectral Region" />
@@ -16650,6 +16675,7 @@
         <entry key="spreval" value="Evaluation of Sprinkler Irrigation Uniformity and Efficiency" />
         <entry key="sprex" value="Calculate Species Richness and Extrapolation Metrics" />
         <entry key="springer" value="Sparse Group Variable Selection for Gene-Environment Interactions in the Longitudinal Study" />
+        <entry key="springpheno" value="Spring Phenological Indices" />
         <entry key="sprintr" value="Sparse Reluctant Interaction Modeling" />
         <entry key="sprm" value="Sparse and Non-Sparse Partial Robust M Regression and Classification" />
         <entry key="sprsmdl" value="Sparse modeling toolkit" />
@@ -16693,6 +16719,7 @@
         <entry key="ssc" value="Semi-Supervised Classification Methods" />
         <entry key="sscor" value="Robust Correlation Estimation and Testing Based on Spatial Signs" />
         <entry key="ssd" value="Sample Size Determination (SSD) for Unordered Categorical Data" />
+        <entry key="ssddata" value="Species Sensitivity Distribution Data" />
         <entry key="ssdtools" value="Species Sensitivity Distributions" />
         <entry key="sse" value="Sample Size Estimation" />
         <entry key="ssev" value="Sample Size Computation for Fixed N with Optimal Reward" />
@@ -16734,7 +16761,7 @@
         <entry key="stabs" value="Stability Selection with Error Control" />
         <entry key="stackoverflow" value="Stack Overflow's Greatest Hits" />
         <entry key="stacks" value="Tidy Model Stacking" />
-        <entry key="stacomirtools" value="'ODBC' Connection Class for Package stacomiR" />
+        <entry key="stacomirtools" value="Connection Class for Package stacomiR" />
         <entry key="stagePop" value="Modelling the Population Dynamics of a Stage-Structured Species in Continuous Time" />
         <entry key="stagedtrees" value="Staged Event Trees" />
         <entry key="staggered" value="Efficient Estimation Under Staggered Treatment Timing" />
@@ -16805,6 +16832,7 @@
         <entry key="stepR" value="Multiscale Change-Point Inference" />
         <entry key="stepjglm" value="Variable Selection for Joint Modeling of Mean and Dispersion" />
         <entry key="stepp" value="Subpopulation Treatment Effect Pattern Plot (STEPP)" />
+        <entry key="steprf" value="Stepwise Predictive Variable Selection for Random Forest" />
         <entry key="steps" value="Spatially- and Temporally-Explicit Population Simulator" />
         <entry key="stevedata" value="Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics" />
         <entry key="stevedore" value="Docker Client" />
@@ -16827,7 +16855,7 @@
         <entry key="stmgp" value="Rapid and Accurate Genetic Prediction Modeling for Genome-Wide Association or Whole-Genome Sequencing Study Data" />
         <entry key="stmgui" value="Shiny Application for Creating STM Models" />
         <entry key="stminsights" value="A 'Shiny' Application for Inspecting Structural Topic Models" />
-        <entry key="stoRy" value="Functions for the Analysis of Star Trek Thematic Data" />
+        <entry key="stoRy" value="Download, Explore, and Analyze Literary Theme Ontology Data" />
         <entry key="stocc" value="Fit a Spatial Occupancy Model via Gibbs Sampling" />
         <entry key="stochQN" value="Stochastic Limited Memory Quasi-Newton Optimizers" />
         <entry key="stochprofML" value="Stochastic Profiling using Maximum Likelihood Estimation" />
@@ -16972,6 +17000,7 @@
         <entry key="survSNP" value="Power Calculations for SNP Studies with Censored Outcomes" />
         <entry key="survSens" value="Sensitivity Analysis with Time-to-Event Outcomes" />
         <entry key="survSpearman" value="Nonparametric Spearman's Correlation for Survival Data" />
+        <entry key="surveil" value="Time Series Models for Disease Surveillance" />
         <entry key="surveillance" value="Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic Phenomena" />
         <entry key="survexp.fr" value="Relative survival, AER and SMR based on French death rates" />
         <entry key="survey" value="Analysis of Complex Survey Samples" />
@@ -17216,6 +17245,7 @@
         <entry key="testarguments" value="Test (Multiple) Arguments of a User-Defined Prediction Algorithm" />
         <entry key="testassay" value="A Hypothesis Testing Framework for Validating an Assay for Precision" />
         <entry key="testcorr" value="Testing Zero Correlation" />
+        <entry key="testdat" value="Data Unit Testing for R" />
         <entry key="testequavar" value="Bootstrap Tests for Equality of 2, 3, or 4 Population Variances" />
         <entry key="tester" value="Tests and checks characteristics of R objects" />
         <entry key="testforDEP" value="Dependence Tests for Two Variables" />
@@ -17230,6 +17260,7 @@
         <entry key="text" value="Analyses of Text using Natural Language Processing and Machine Learning" />
         <entry key="text.alignment" value="Text Alignment with Smith-Waterman" />
         <entry key="text2map" value="R Tools for Text Matrices, Embeddings, and Networks" />
+        <entry key="text2sdg" value="Detecting UN Sustainable Development Goals in Text" />
         <entry key="text2speech" value="Text to Speech" />
         <entry key="text2vec" value="Modern Text Mining Framework for R" />
         <entry key="textTinyR" value="Text Processing for Small or Big Data Files" />
@@ -17278,7 +17309,6 @@
         <entry key="tgram" value="Compute and Plot Tracheidograms" />
         <entry key="tgstat" value="Amos Tanay's Group High Performance Statistical Utilities" />
         <entry key="thankr" value="Find Out Who Maintains the Packages you Use" />
-        <entry key="thectar" value="Hermeneutic Content Analysis" />
         <entry key="theiaR" value="Download and Manage Data from Theia" />
         <entry key="thematic" value="Unified and Automatic 'Theming' of 'ggplot2', 'lattice', and 'base' R Graphics" />
         <entry key="themetagenomics" value="Exploring Thematic Structure and Predicted Functionality of 16s rRNA Amplicon Data" />
@@ -17338,6 +17368,7 @@
         <entry key="tidygraph" value="A Tidy API for Graph Manipulation" />
         <entry key="tidyhydat" value="Extract and Tidy Canadian 'Hydrometric' Data" />
         <entry key="tidyjson" value="Tidy Complex 'JSON'" />
+        <entry key="tidylab" value="Shared Infrastructure of 'Tidylab' Package Collection" />
         <entry key="tidylda" value="Latent Dirichlet Allocation Using 'tidyverse' Conventions" />
         <entry key="tidylo" value="Weighted Tidy Log Odds Ratio" />
         <entry key="tidylog" value="Logging for 'dplyr' and 'tidyr' Functions" />
@@ -17474,6 +17505,7 @@
         <entry key="tools4uplift" value="Tools for Uplift Modeling" />
         <entry key="topicdoc" value="Topic-Specific Diagnostics for LDA and CTM Topic Models" />
         <entry key="topicmodels" value="Topic Models" />
+        <entry key="topicmodels.etm" value="Topic Modelling in Embedding Spaces" />
         <entry key="topmodel" value="Implementation of the Hydrological Model TOPMODEL in R" />
         <entry key="topoDistance" value="Calculating Topographic Paths and Distances" />
         <entry key="topologyGSA" value="Gene Set Analysis Exploiting Pathway Topology" />
@@ -17738,7 +17770,7 @@
         <entry key="udapi" value="Urban Dictionary API Client" />
         <entry key="udpipe" value="Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing with the 'UDPipe' 'NLP' Toolkit" />
         <entry key="udunits2" value="Udunits-2 Bindings for R" />
-        <entry key="ufs" value="Quantitative Analysis Made Accessible" />
+        <entry key="ufs" value="A Collection of Utilities" />
         <entry key="ugatsdb" value="Uganda Time Series Database API" />
         <entry key="ugomquantreg" value="Quantile Regression Modeling for Unit-Gompertz Responses" />
         <entry key="ui" value="Uncertainty Intervals and Sensitivity Analysis for Missing Data" />
@@ -17993,6 +18025,7 @@
         <entry key="vlad" value="Variable Life Adjusted Display and Other Risk-Adjusted Quality Control Charts" />
         <entry key="vlda" value="Visualization of Multidimensional Longitudinal Data" />
         <entry key="vmd" value="Variational Mode Decomposition" />
+        <entry key="vmeasur" value="Quantify the Contractile Nature of Vessels Monitored under an Operating Microscope" />
         <entry key="vmr" value="Virtual Machines for R" />
         <entry key="vntrs" value="Variable Neighborhood Trust Region Search" />
         <entry key="vocaldia" value="Create and Manipulate Vocalisation Diagrams" />
@@ -18023,7 +18056,7 @@
         <entry key="vscc" value="Variable selection for clustering and classification" />
         <entry key="vsd" value="Graphical Shim for Visual Survival Data Analysis" />
         <entry key="vsgoftest" value="Goodness-of-Fit Tests Based on Kullback-Leibler Divergence" />
-        <entry key="vstsr" value="Access to Visual Studio Team Services API via R" />
+        <entry key="vstsr" value="Access to 'Azure DevOps' API via R" />
         <entry key="vtable" value="Variable Table for Variable Documentation" />
         <entry key="vtreat" value="A Statistically Sound 'data.frame' Processor/Conditioner" />
         <entry key="vtree" value="Display Information About Nested Subsets of a Data Frame" />
@@ -18180,6 +18213,7 @@
         <entry key="wmm" value="World Magnetic Model" />
         <entry key="wmwpow" value="Precise and Accurate Power of the Wilcoxon-Mann-Whitney Rank-Sum Test for a Continuous Variable" />
         <entry key="wnl" value="Minimization Tool for Pharmacokinetic-Pharmacodynamic Data Analysis" />
+        <entry key="wnominate" value="Roll Call Analysis Software" />
         <entry key="woe" value="Computes Weight of Evidence and Information Values" />
         <entry key="woeBinning" value="Supervised Weight of Evidence Binning of Numeric Variables and Factors" />
         <entry key="womblR" value="Spatiotemporal Boundary Detection Model for Areal Unit Data" />
@@ -18384,6 +18418,6 @@
         <entry key="zzlite" value="Lite Wrapper for the 'Zamzar File Conversion' API" />
       </map>
     </option>
-    <option name="lastUpdate" value="1636095336138" />
+    <option name="lastUpdate" value="1636916403567" />
   </component>
 </application>
