@@ -4,6 +4,7 @@
       <mapping pattern="readme" type="AUTO_DETECTED" />
       <mapping ext="ods" type="Native" />
       <mapping ext="csv" type="Native" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
