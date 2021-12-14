@@ -8,6 +8,12 @@
           <option name="timestamp" value="1602333922000" />
           <option name="version" value="4.0.3" />
         </RSerializableInterpreter>
+        <RSerializableInterpreter>
+          <option name="name" value="Suggested" />
+          <option name="path" value="C:\Program Files\R\R-4.1.2\bin\R.exe" />
+          <option name="timestamp" value="1635788020000" />
+          <option name="version" value="4.1.2" />
+        </RSerializableInterpreter>
       </list>
     </option>
   </component>
