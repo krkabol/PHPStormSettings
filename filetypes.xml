@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="readme" type="AUTO_DETECTED" />
+      <mapping pattern="0_db" type="AUTO_DETECTED" />
       <mapping ext="ods" type="Native" />
       <mapping ext="csv" type="Native" />
       <mapping ext="neon" type="PLAIN_TEXT" />
