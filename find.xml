@@ -14,5 +14,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
