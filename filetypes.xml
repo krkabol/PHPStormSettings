@@ -8,6 +8,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ods" type="Native" />
       <mapping ext="csv" type="Native" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="rmd" type="PLAIN_TEXT" />
