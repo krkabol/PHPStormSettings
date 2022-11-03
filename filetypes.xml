@@ -3,14 +3,14 @@
     <extensionMap>
       <mapping pattern="readme" type="AUTO_DETECTED" />
       <mapping pattern="0_db" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="ods" type="Native" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="csv" type="Native" />
+      <mapping ext="ods" type="Native" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
